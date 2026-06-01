@@ -1,0 +1,1002 @@
+[
+  {
+    "case_id": 1,
+    "specialty": "Cardiology",
+    "symptoms": "chest pain on exertion",
+    "history": "hypertension and smoking",
+    "investigations": "ECG with ST depression, positive stress test",
+    "diagnosis": "Stable angina",
+    "treatment": "aspirin, statin, beta-blocker",
+    "outcome": "symptoms improved"
+  },
+  {
+    "case_id": 2,
+    "specialty": "Neurology",
+    "symptoms": "sudden unilateral weakness",
+    "history": "atrial fibrillation",
+    "investigations": "CT brain excludes bleed, MRI infarct",
+    "diagnosis": "Ischemic stroke",
+    "treatment": "thrombolysis when eligible, antiplatelets",
+    "outcome": "partial neurologic recovery"
+  },
+  {
+    "case_id": 3,
+    "specialty": "Endocrinology",
+    "symptoms": "polyuria and polydipsia",
+    "history": "obesity",
+    "investigations": "high HbA1c and fasting glucose",
+    "diagnosis": "Type 2 diabetes mellitus",
+    "treatment": "metformin and lifestyle modification",
+    "outcome": "glycemic control achieved"
+  },
+  {
+    "case_id": 4,
+    "specialty": "Pulmonology",
+    "symptoms": "fever with productive cough",
+    "history": "smoker",
+    "investigations": "chest X-ray consolidation",
+    "diagnosis": "Community-acquired pneumonia",
+    "treatment": "antibiotics and supportive care",
+    "outcome": "full recovery"
+  },
+  {
+    "case_id": 5,
+    "specialty": "Gastroenterology",
+    "symptoms": "epigastric pain",
+    "history": "NSAID use",
+    "investigations": "endoscopy ulcer",
+    "diagnosis": "Peptic ulcer disease",
+    "treatment": "PPI therapy",
+    "outcome": "ulcer healed"
+  },
+  {
+    "case_id": 6,
+    "specialty": "Nephrology",
+    "symptoms": "facial puffiness and edema",
+    "history": "recent infection",
+    "investigations": "proteinuria and low albumin",
+    "diagnosis": "Nephrotic syndrome",
+    "treatment": "steroids and salt restriction",
+    "outcome": "proteinuria reduced"
+  },
+  {
+    "case_id": 7,
+    "specialty": "Infectious Diseases",
+    "symptoms": "persistent fever",
+    "history": "travel history",
+    "investigations": "positive blood culture",
+    "diagnosis": "Typhoid fever",
+    "treatment": "targeted antibiotics",
+    "outcome": "recovered"
+  },
+  {
+    "case_id": 8,
+    "specialty": "Pediatrics",
+    "symptoms": "fever and ear pain",
+    "history": "school-aged child",
+    "investigations": "otoscopy inflamed tympanic membrane",
+    "diagnosis": "Acute otitis media",
+    "treatment": "appropriate antibiotics",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 9,
+    "specialty": "Cardiology",
+    "symptoms": "acute crushing chest pain",
+    "history": "diabetes and dyslipidemia",
+    "investigations": "ECG STEMI changes, elevated troponin",
+    "diagnosis": "ST-elevation myocardial infarction",
+    "treatment": "primary PCI, dual antiplatelets",
+    "outcome": "recovered with preserved EF"
+  },
+  {
+    "case_id": 10,
+    "specialty": "Neurology",
+    "symptoms": "progressive resting tremor",
+    "history": "elderly patient",
+    "investigations": "clinical examination",
+    "diagnosis": "Parkinson disease",
+    "treatment": "levodopa-carbidopa",
+    "outcome": "improved motor symptoms"
+  },
+  {
+    "case_id": 11,
+    "specialty": "Endocrinology",
+    "symptoms": "weight loss and palpitations",
+    "history": "autoimmune history",
+    "investigations": "low TSH, high T4",
+    "diagnosis": "Graves disease",
+    "treatment": "antithyroid drugs",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 12,
+    "specialty": "Pulmonology",
+    "symptoms": "progressive dyspnea",
+    "history": "long smoking history",
+    "investigations": "spirometry obstructive pattern",
+    "diagnosis": "COPD",
+    "treatment": "bronchodilators and smoking cessation",
+    "outcome": "reduced exacerbations"
+  },
+  {
+    "case_id": 13,
+    "specialty": "Gastroenterology",
+    "symptoms": "jaundice and abdominal pain",
+    "history": "gallstones",
+    "investigations": "ultrasound biliary obstruction",
+    "diagnosis": "Choledocholithiasis",
+    "treatment": "ERCP and surgery",
+    "outcome": "good recovery"
+  },
+  {
+    "case_id": 14,
+    "specialty": "Nephrology",
+    "symptoms": "reduced urine output",
+    "history": "dehydration",
+    "investigations": "elevated creatinine",
+    "diagnosis": "Acute kidney injury",
+    "treatment": "IV fluids and cause correction",
+    "outcome": "renal function normalized"
+  },
+  {
+    "case_id": 15,
+    "specialty": "Infectious Diseases",
+    "symptoms": "chronic cough and weight loss",
+    "history": "TB exposure",
+    "investigations": "positive NAAT and chest imaging",
+    "diagnosis": "Pulmonary tuberculosis",
+    "treatment": "multidrug anti-TB therapy",
+    "outcome": "clinical improvement"
+  },
+  {
+    "case_id": 16,
+    "specialty": "Pediatrics",
+    "symptoms": "wheezing and cough",
+    "history": "allergic background",
+    "investigations": "clinical assessment and spirometry",
+    "diagnosis": "Childhood asthma",
+    "treatment": "inhaled bronchodilators and steroids",
+    "outcome": "good control"
+  },
+  {
+    "case_id": 17,
+    "specialty": "Cardiology",
+    "symptoms": "chest pain on exertion",
+    "history": "hypertension and smoking",
+    "investigations": "ECG with ST depression, positive stress test",
+    "diagnosis": "Stable angina",
+    "treatment": "aspirin, statin, beta-blocker",
+    "outcome": "symptoms improved"
+  },
+  {
+    "case_id": 18,
+    "specialty": "Neurology",
+    "symptoms": "sudden unilateral weakness",
+    "history": "atrial fibrillation",
+    "investigations": "CT brain excludes bleed, MRI infarct",
+    "diagnosis": "Ischemic stroke",
+    "treatment": "thrombolysis when eligible, antiplatelets",
+    "outcome": "partial neurologic recovery"
+  },
+  {
+    "case_id": 19,
+    "specialty": "Endocrinology",
+    "symptoms": "polyuria and polydipsia",
+    "history": "obesity",
+    "investigations": "high HbA1c and fasting glucose",
+    "diagnosis": "Type 2 diabetes mellitus",
+    "treatment": "metformin and lifestyle modification",
+    "outcome": "glycemic control achieved"
+  },
+  {
+    "case_id": 20,
+    "specialty": "Pulmonology",
+    "symptoms": "fever with productive cough",
+    "history": "smoker",
+    "investigations": "chest X-ray consolidation",
+    "diagnosis": "Community-acquired pneumonia",
+    "treatment": "antibiotics and supportive care",
+    "outcome": "full recovery"
+  },
+  {
+    "case_id": 21,
+    "specialty": "Gastroenterology",
+    "symptoms": "epigastric pain",
+    "history": "NSAID use",
+    "investigations": "endoscopy ulcer",
+    "diagnosis": "Peptic ulcer disease",
+    "treatment": "PPI therapy",
+    "outcome": "ulcer healed"
+  },
+  {
+    "case_id": 22,
+    "specialty": "Nephrology",
+    "symptoms": "facial puffiness and edema",
+    "history": "recent infection",
+    "investigations": "proteinuria and low albumin",
+    "diagnosis": "Nephrotic syndrome",
+    "treatment": "steroids and salt restriction",
+    "outcome": "proteinuria reduced"
+  },
+  {
+    "case_id": 23,
+    "specialty": "Infectious Diseases",
+    "symptoms": "persistent fever",
+    "history": "travel history",
+    "investigations": "positive blood culture",
+    "diagnosis": "Typhoid fever",
+    "treatment": "targeted antibiotics",
+    "outcome": "recovered"
+  },
+  {
+    "case_id": 24,
+    "specialty": "Pediatrics",
+    "symptoms": "fever and ear pain",
+    "history": "school-aged child",
+    "investigations": "otoscopy inflamed tympanic membrane",
+    "diagnosis": "Acute otitis media",
+    "treatment": "appropriate antibiotics",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 25,
+    "specialty": "Cardiology",
+    "symptoms": "acute crushing chest pain",
+    "history": "diabetes and dyslipidemia",
+    "investigations": "ECG STEMI changes, elevated troponin",
+    "diagnosis": "ST-elevation myocardial infarction",
+    "treatment": "primary PCI, dual antiplatelets",
+    "outcome": "recovered with preserved EF"
+  },
+  {
+    "case_id": 26,
+    "specialty": "Neurology",
+    "symptoms": "progressive resting tremor",
+    "history": "elderly patient",
+    "investigations": "clinical examination",
+    "diagnosis": "Parkinson disease",
+    "treatment": "levodopa-carbidopa",
+    "outcome": "improved motor symptoms"
+  },
+  {
+    "case_id": 27,
+    "specialty": "Endocrinology",
+    "symptoms": "weight loss and palpitations",
+    "history": "autoimmune history",
+    "investigations": "low TSH, high T4",
+    "diagnosis": "Graves disease",
+    "treatment": "antithyroid drugs",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 28,
+    "specialty": "Pulmonology",
+    "symptoms": "progressive dyspnea",
+    "history": "long smoking history",
+    "investigations": "spirometry obstructive pattern",
+    "diagnosis": "COPD",
+    "treatment": "bronchodilators and smoking cessation",
+    "outcome": "reduced exacerbations"
+  },
+  {
+    "case_id": 29,
+    "specialty": "Gastroenterology",
+    "symptoms": "jaundice and abdominal pain",
+    "history": "gallstones",
+    "investigations": "ultrasound biliary obstruction",
+    "diagnosis": "Choledocholithiasis",
+    "treatment": "ERCP and surgery",
+    "outcome": "good recovery"
+  },
+  {
+    "case_id": 30,
+    "specialty": "Nephrology",
+    "symptoms": "reduced urine output",
+    "history": "dehydration",
+    "investigations": "elevated creatinine",
+    "diagnosis": "Acute kidney injury",
+    "treatment": "IV fluids and cause correction",
+    "outcome": "renal function normalized"
+  },
+  {
+    "case_id": 31,
+    "specialty": "Infectious Diseases",
+    "symptoms": "chronic cough and weight loss",
+    "history": "TB exposure",
+    "investigations": "positive NAAT and chest imaging",
+    "diagnosis": "Pulmonary tuberculosis",
+    "treatment": "multidrug anti-TB therapy",
+    "outcome": "clinical improvement"
+  },
+  {
+    "case_id": 32,
+    "specialty": "Pediatrics",
+    "symptoms": "wheezing and cough",
+    "history": "allergic background",
+    "investigations": "clinical assessment and spirometry",
+    "diagnosis": "Childhood asthma",
+    "treatment": "inhaled bronchodilators and steroids",
+    "outcome": "good control"
+  },
+  {
+    "case_id": 33,
+    "specialty": "Cardiology",
+    "symptoms": "chest pain on exertion",
+    "history": "hypertension and smoking",
+    "investigations": "ECG with ST depression, positive stress test",
+    "diagnosis": "Stable angina",
+    "treatment": "aspirin, statin, beta-blocker",
+    "outcome": "symptoms improved"
+  },
+  {
+    "case_id": 34,
+    "specialty": "Neurology",
+    "symptoms": "sudden unilateral weakness",
+    "history": "atrial fibrillation",
+    "investigations": "CT brain excludes bleed, MRI infarct",
+    "diagnosis": "Ischemic stroke",
+    "treatment": "thrombolysis when eligible, antiplatelets",
+    "outcome": "partial neurologic recovery"
+  },
+  {
+    "case_id": 35,
+    "specialty": "Endocrinology",
+    "symptoms": "polyuria and polydipsia",
+    "history": "obesity",
+    "investigations": "high HbA1c and fasting glucose",
+    "diagnosis": "Type 2 diabetes mellitus",
+    "treatment": "metformin and lifestyle modification",
+    "outcome": "glycemic control achieved"
+  },
+  {
+    "case_id": 36,
+    "specialty": "Pulmonology",
+    "symptoms": "fever with productive cough",
+    "history": "smoker",
+    "investigations": "chest X-ray consolidation",
+    "diagnosis": "Community-acquired pneumonia",
+    "treatment": "antibiotics and supportive care",
+    "outcome": "full recovery"
+  },
+  {
+    "case_id": 37,
+    "specialty": "Gastroenterology",
+    "symptoms": "epigastric pain",
+    "history": "NSAID use",
+    "investigations": "endoscopy ulcer",
+    "diagnosis": "Peptic ulcer disease",
+    "treatment": "PPI therapy",
+    "outcome": "ulcer healed"
+  },
+  {
+    "case_id": 38,
+    "specialty": "Nephrology",
+    "symptoms": "facial puffiness and edema",
+    "history": "recent infection",
+    "investigations": "proteinuria and low albumin",
+    "diagnosis": "Nephrotic syndrome",
+    "treatment": "steroids and salt restriction",
+    "outcome": "proteinuria reduced"
+  },
+  {
+    "case_id": 39,
+    "specialty": "Infectious Diseases",
+    "symptoms": "persistent fever",
+    "history": "travel history",
+    "investigations": "positive blood culture",
+    "diagnosis": "Typhoid fever",
+    "treatment": "targeted antibiotics",
+    "outcome": "recovered"
+  },
+  {
+    "case_id": 40,
+    "specialty": "Pediatrics",
+    "symptoms": "fever and ear pain",
+    "history": "school-aged child",
+    "investigations": "otoscopy inflamed tympanic membrane",
+    "diagnosis": "Acute otitis media",
+    "treatment": "appropriate antibiotics",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 41,
+    "specialty": "Cardiology",
+    "symptoms": "acute crushing chest pain",
+    "history": "diabetes and dyslipidemia",
+    "investigations": "ECG STEMI changes, elevated troponin",
+    "diagnosis": "ST-elevation myocardial infarction",
+    "treatment": "primary PCI, dual antiplatelets",
+    "outcome": "recovered with preserved EF"
+  },
+  {
+    "case_id": 42,
+    "specialty": "Neurology",
+    "symptoms": "progressive resting tremor",
+    "history": "elderly patient",
+    "investigations": "clinical examination",
+    "diagnosis": "Parkinson disease",
+    "treatment": "levodopa-carbidopa",
+    "outcome": "improved motor symptoms"
+  },
+  {
+    "case_id": 43,
+    "specialty": "Endocrinology",
+    "symptoms": "weight loss and palpitations",
+    "history": "autoimmune history",
+    "investigations": "low TSH, high T4",
+    "diagnosis": "Graves disease",
+    "treatment": "antithyroid drugs",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 44,
+    "specialty": "Pulmonology",
+    "symptoms": "progressive dyspnea",
+    "history": "long smoking history",
+    "investigations": "spirometry obstructive pattern",
+    "diagnosis": "COPD",
+    "treatment": "bronchodilators and smoking cessation",
+    "outcome": "reduced exacerbations"
+  },
+  {
+    "case_id": 45,
+    "specialty": "Gastroenterology",
+    "symptoms": "jaundice and abdominal pain",
+    "history": "gallstones",
+    "investigations": "ultrasound biliary obstruction",
+    "diagnosis": "Choledocholithiasis",
+    "treatment": "ERCP and surgery",
+    "outcome": "good recovery"
+  },
+  {
+    "case_id": 46,
+    "specialty": "Nephrology",
+    "symptoms": "reduced urine output",
+    "history": "dehydration",
+    "investigations": "elevated creatinine",
+    "diagnosis": "Acute kidney injury",
+    "treatment": "IV fluids and cause correction",
+    "outcome": "renal function normalized"
+  },
+  {
+    "case_id": 47,
+    "specialty": "Infectious Diseases",
+    "symptoms": "chronic cough and weight loss",
+    "history": "TB exposure",
+    "investigations": "positive NAAT and chest imaging",
+    "diagnosis": "Pulmonary tuberculosis",
+    "treatment": "multidrug anti-TB therapy",
+    "outcome": "clinical improvement"
+  },
+  {
+    "case_id": 48,
+    "specialty": "Pediatrics",
+    "symptoms": "wheezing and cough",
+    "history": "allergic background",
+    "investigations": "clinical assessment and spirometry",
+    "diagnosis": "Childhood asthma",
+    "treatment": "inhaled bronchodilators and steroids",
+    "outcome": "good control"
+  },
+  {
+    "case_id": 49,
+    "specialty": "Cardiology",
+    "symptoms": "chest pain on exertion",
+    "history": "hypertension and smoking",
+    "investigations": "ECG with ST depression, positive stress test",
+    "diagnosis": "Stable angina",
+    "treatment": "aspirin, statin, beta-blocker",
+    "outcome": "symptoms improved"
+  },
+  {
+    "case_id": 50,
+    "specialty": "Neurology",
+    "symptoms": "sudden unilateral weakness",
+    "history": "atrial fibrillation",
+    "investigations": "CT brain excludes bleed, MRI infarct",
+    "diagnosis": "Ischemic stroke",
+    "treatment": "thrombolysis when eligible, antiplatelets",
+    "outcome": "partial neurologic recovery"
+  },
+  {
+    "case_id": 51,
+    "specialty": "Endocrinology",
+    "symptoms": "polyuria and polydipsia",
+    "history": "obesity",
+    "investigations": "high HbA1c and fasting glucose",
+    "diagnosis": "Type 2 diabetes mellitus",
+    "treatment": "metformin and lifestyle modification",
+    "outcome": "glycemic control achieved"
+  },
+  {
+    "case_id": 52,
+    "specialty": "Pulmonology",
+    "symptoms": "fever with productive cough",
+    "history": "smoker",
+    "investigations": "chest X-ray consolidation",
+    "diagnosis": "Community-acquired pneumonia",
+    "treatment": "antibiotics and supportive care",
+    "outcome": "full recovery"
+  },
+  {
+    "case_id": 53,
+    "specialty": "Gastroenterology",
+    "symptoms": "epigastric pain",
+    "history": "NSAID use",
+    "investigations": "endoscopy ulcer",
+    "diagnosis": "Peptic ulcer disease",
+    "treatment": "PPI therapy",
+    "outcome": "ulcer healed"
+  },
+  {
+    "case_id": 54,
+    "specialty": "Nephrology",
+    "symptoms": "facial puffiness and edema",
+    "history": "recent infection",
+    "investigations": "proteinuria and low albumin",
+    "diagnosis": "Nephrotic syndrome",
+    "treatment": "steroids and salt restriction",
+    "outcome": "proteinuria reduced"
+  },
+  {
+    "case_id": 55,
+    "specialty": "Infectious Diseases",
+    "symptoms": "persistent fever",
+    "history": "travel history",
+    "investigations": "positive blood culture",
+    "diagnosis": "Typhoid fever",
+    "treatment": "targeted antibiotics",
+    "outcome": "recovered"
+  },
+  {
+    "case_id": 56,
+    "specialty": "Pediatrics",
+    "symptoms": "fever and ear pain",
+    "history": "school-aged child",
+    "investigations": "otoscopy inflamed tympanic membrane",
+    "diagnosis": "Acute otitis media",
+    "treatment": "appropriate antibiotics",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 57,
+    "specialty": "Cardiology",
+    "symptoms": "acute crushing chest pain",
+    "history": "diabetes and dyslipidemia",
+    "investigations": "ECG STEMI changes, elevated troponin",
+    "diagnosis": "ST-elevation myocardial infarction",
+    "treatment": "primary PCI, dual antiplatelets",
+    "outcome": "recovered with preserved EF"
+  },
+  {
+    "case_id": 58,
+    "specialty": "Neurology",
+    "symptoms": "progressive resting tremor",
+    "history": "elderly patient",
+    "investigations": "clinical examination",
+    "diagnosis": "Parkinson disease",
+    "treatment": "levodopa-carbidopa",
+    "outcome": "improved motor symptoms"
+  },
+  {
+    "case_id": 59,
+    "specialty": "Endocrinology",
+    "symptoms": "weight loss and palpitations",
+    "history": "autoimmune history",
+    "investigations": "low TSH, high T4",
+    "diagnosis": "Graves disease",
+    "treatment": "antithyroid drugs",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 60,
+    "specialty": "Pulmonology",
+    "symptoms": "progressive dyspnea",
+    "history": "long smoking history",
+    "investigations": "spirometry obstructive pattern",
+    "diagnosis": "COPD",
+    "treatment": "bronchodilators and smoking cessation",
+    "outcome": "reduced exacerbations"
+  },
+  {
+    "case_id": 61,
+    "specialty": "Gastroenterology",
+    "symptoms": "jaundice and abdominal pain",
+    "history": "gallstones",
+    "investigations": "ultrasound biliary obstruction",
+    "diagnosis": "Choledocholithiasis",
+    "treatment": "ERCP and surgery",
+    "outcome": "good recovery"
+  },
+  {
+    "case_id": 62,
+    "specialty": "Nephrology",
+    "symptoms": "reduced urine output",
+    "history": "dehydration",
+    "investigations": "elevated creatinine",
+    "diagnosis": "Acute kidney injury",
+    "treatment": "IV fluids and cause correction",
+    "outcome": "renal function normalized"
+  },
+  {
+    "case_id": 63,
+    "specialty": "Infectious Diseases",
+    "symptoms": "chronic cough and weight loss",
+    "history": "TB exposure",
+    "investigations": "positive NAAT and chest imaging",
+    "diagnosis": "Pulmonary tuberculosis",
+    "treatment": "multidrug anti-TB therapy",
+    "outcome": "clinical improvement"
+  },
+  {
+    "case_id": 64,
+    "specialty": "Pediatrics",
+    "symptoms": "wheezing and cough",
+    "history": "allergic background",
+    "investigations": "clinical assessment and spirometry",
+    "diagnosis": "Childhood asthma",
+    "treatment": "inhaled bronchodilators and steroids",
+    "outcome": "good control"
+  },
+  {
+    "case_id": 65,
+    "specialty": "Cardiology",
+    "symptoms": "chest pain on exertion",
+    "history": "hypertension and smoking",
+    "investigations": "ECG with ST depression, positive stress test",
+    "diagnosis": "Stable angina",
+    "treatment": "aspirin, statin, beta-blocker",
+    "outcome": "symptoms improved"
+  },
+  {
+    "case_id": 66,
+    "specialty": "Neurology",
+    "symptoms": "sudden unilateral weakness",
+    "history": "atrial fibrillation",
+    "investigations": "CT brain excludes bleed, MRI infarct",
+    "diagnosis": "Ischemic stroke",
+    "treatment": "thrombolysis when eligible, antiplatelets",
+    "outcome": "partial neurologic recovery"
+  },
+  {
+    "case_id": 67,
+    "specialty": "Endocrinology",
+    "symptoms": "polyuria and polydipsia",
+    "history": "obesity",
+    "investigations": "high HbA1c and fasting glucose",
+    "diagnosis": "Type 2 diabetes mellitus",
+    "treatment": "metformin and lifestyle modification",
+    "outcome": "glycemic control achieved"
+  },
+  {
+    "case_id": 68,
+    "specialty": "Pulmonology",
+    "symptoms": "fever with productive cough",
+    "history": "smoker",
+    "investigations": "chest X-ray consolidation",
+    "diagnosis": "Community-acquired pneumonia",
+    "treatment": "antibiotics and supportive care",
+    "outcome": "full recovery"
+  },
+  {
+    "case_id": 69,
+    "specialty": "Gastroenterology",
+    "symptoms": "epigastric pain",
+    "history": "NSAID use",
+    "investigations": "endoscopy ulcer",
+    "diagnosis": "Peptic ulcer disease",
+    "treatment": "PPI therapy",
+    "outcome": "ulcer healed"
+  },
+  {
+    "case_id": 70,
+    "specialty": "Nephrology",
+    "symptoms": "facial puffiness and edema",
+    "history": "recent infection",
+    "investigations": "proteinuria and low albumin",
+    "diagnosis": "Nephrotic syndrome",
+    "treatment": "steroids and salt restriction",
+    "outcome": "proteinuria reduced"
+  },
+  {
+    "case_id": 71,
+    "specialty": "Infectious Diseases",
+    "symptoms": "persistent fever",
+    "history": "travel history",
+    "investigations": "positive blood culture",
+    "diagnosis": "Typhoid fever",
+    "treatment": "targeted antibiotics",
+    "outcome": "recovered"
+  },
+  {
+    "case_id": 72,
+    "specialty": "Pediatrics",
+    "symptoms": "fever and ear pain",
+    "history": "school-aged child",
+    "investigations": "otoscopy inflamed tympanic membrane",
+    "diagnosis": "Acute otitis media",
+    "treatment": "appropriate antibiotics",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 73,
+    "specialty": "Cardiology",
+    "symptoms": "acute crushing chest pain",
+    "history": "diabetes and dyslipidemia",
+    "investigations": "ECG STEMI changes, elevated troponin",
+    "diagnosis": "ST-elevation myocardial infarction",
+    "treatment": "primary PCI, dual antiplatelets",
+    "outcome": "recovered with preserved EF"
+  },
+  {
+    "case_id": 74,
+    "specialty": "Neurology",
+    "symptoms": "progressive resting tremor",
+    "history": "elderly patient",
+    "investigations": "clinical examination",
+    "diagnosis": "Parkinson disease",
+    "treatment": "levodopa-carbidopa",
+    "outcome": "improved motor symptoms"
+  },
+  {
+    "case_id": 75,
+    "specialty": "Endocrinology",
+    "symptoms": "weight loss and palpitations",
+    "history": "autoimmune history",
+    "investigations": "low TSH, high T4",
+    "diagnosis": "Graves disease",
+    "treatment": "antithyroid drugs",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 76,
+    "specialty": "Pulmonology",
+    "symptoms": "progressive dyspnea",
+    "history": "long smoking history",
+    "investigations": "spirometry obstructive pattern",
+    "diagnosis": "COPD",
+    "treatment": "bronchodilators and smoking cessation",
+    "outcome": "reduced exacerbations"
+  },
+  {
+    "case_id": 77,
+    "specialty": "Gastroenterology",
+    "symptoms": "jaundice and abdominal pain",
+    "history": "gallstones",
+    "investigations": "ultrasound biliary obstruction",
+    "diagnosis": "Choledocholithiasis",
+    "treatment": "ERCP and surgery",
+    "outcome": "good recovery"
+  },
+  {
+    "case_id": 78,
+    "specialty": "Nephrology",
+    "symptoms": "reduced urine output",
+    "history": "dehydration",
+    "investigations": "elevated creatinine",
+    "diagnosis": "Acute kidney injury",
+    "treatment": "IV fluids and cause correction",
+    "outcome": "renal function normalized"
+  },
+  {
+    "case_id": 79,
+    "specialty": "Infectious Diseases",
+    "symptoms": "chronic cough and weight loss",
+    "history": "TB exposure",
+    "investigations": "positive NAAT and chest imaging",
+    "diagnosis": "Pulmonary tuberculosis",
+    "treatment": "multidrug anti-TB therapy",
+    "outcome": "clinical improvement"
+  },
+  {
+    "case_id": 80,
+    "specialty": "Pediatrics",
+    "symptoms": "wheezing and cough",
+    "history": "allergic background",
+    "investigations": "clinical assessment and spirometry",
+    "diagnosis": "Childhood asthma",
+    "treatment": "inhaled bronchodilators and steroids",
+    "outcome": "good control"
+  },
+  {
+    "case_id": 81,
+    "specialty": "Cardiology",
+    "symptoms": "chest pain on exertion",
+    "history": "hypertension and smoking",
+    "investigations": "ECG with ST depression, positive stress test",
+    "diagnosis": "Stable angina",
+    "treatment": "aspirin, statin, beta-blocker",
+    "outcome": "symptoms improved"
+  },
+  {
+    "case_id": 82,
+    "specialty": "Neurology",
+    "symptoms": "sudden unilateral weakness",
+    "history": "atrial fibrillation",
+    "investigations": "CT brain excludes bleed, MRI infarct",
+    "diagnosis": "Ischemic stroke",
+    "treatment": "thrombolysis when eligible, antiplatelets",
+    "outcome": "partial neurologic recovery"
+  },
+  {
+    "case_id": 83,
+    "specialty": "Endocrinology",
+    "symptoms": "polyuria and polydipsia",
+    "history": "obesity",
+    "investigations": "high HbA1c and fasting glucose",
+    "diagnosis": "Type 2 diabetes mellitus",
+    "treatment": "metformin and lifestyle modification",
+    "outcome": "glycemic control achieved"
+  },
+  {
+    "case_id": 84,
+    "specialty": "Pulmonology",
+    "symptoms": "fever with productive cough",
+    "history": "smoker",
+    "investigations": "chest X-ray consolidation",
+    "diagnosis": "Community-acquired pneumonia",
+    "treatment": "antibiotics and supportive care",
+    "outcome": "full recovery"
+  },
+  {
+    "case_id": 85,
+    "specialty": "Gastroenterology",
+    "symptoms": "epigastric pain",
+    "history": "NSAID use",
+    "investigations": "endoscopy ulcer",
+    "diagnosis": "Peptic ulcer disease",
+    "treatment": "PPI therapy",
+    "outcome": "ulcer healed"
+  },
+  {
+    "case_id": 86,
+    "specialty": "Nephrology",
+    "symptoms": "facial puffiness and edema",
+    "history": "recent infection",
+    "investigations": "proteinuria and low albumin",
+    "diagnosis": "Nephrotic syndrome",
+    "treatment": "steroids and salt restriction",
+    "outcome": "proteinuria reduced"
+  },
+  {
+    "case_id": 87,
+    "specialty": "Infectious Diseases",
+    "symptoms": "persistent fever",
+    "history": "travel history",
+    "investigations": "positive blood culture",
+    "diagnosis": "Typhoid fever",
+    "treatment": "targeted antibiotics",
+    "outcome": "recovered"
+  },
+  {
+    "case_id": 88,
+    "specialty": "Pediatrics",
+    "symptoms": "fever and ear pain",
+    "history": "school-aged child",
+    "investigations": "otoscopy inflamed tympanic membrane",
+    "diagnosis": "Acute otitis media",
+    "treatment": "appropriate antibiotics",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 89,
+    "specialty": "Cardiology",
+    "symptoms": "acute crushing chest pain",
+    "history": "diabetes and dyslipidemia",
+    "investigations": "ECG STEMI changes, elevated troponin",
+    "diagnosis": "ST-elevation myocardial infarction",
+    "treatment": "primary PCI, dual antiplatelets",
+    "outcome": "recovered with preserved EF"
+  },
+  {
+    "case_id": 90,
+    "specialty": "Neurology",
+    "symptoms": "progressive resting tremor",
+    "history": "elderly patient",
+    "investigations": "clinical examination",
+    "diagnosis": "Parkinson disease",
+    "treatment": "levodopa-carbidopa",
+    "outcome": "improved motor symptoms"
+  },
+  {
+    "case_id": 91,
+    "specialty": "Endocrinology",
+    "symptoms": "weight loss and palpitations",
+    "history": "autoimmune history",
+    "investigations": "low TSH, high T4",
+    "diagnosis": "Graves disease",
+    "treatment": "antithyroid drugs",
+    "outcome": "symptoms resolved"
+  },
+  {
+    "case_id": 92,
+    "specialty": "Pulmonology",
+    "symptoms": "progressive dyspnea",
+    "history": "long smoking history",
+    "investigations": "spirometry obstructive pattern",
+    "diagnosis": "COPD",
+    "treatment": "bronchodilators and smoking cessation",
+    "outcome": "reduced exacerbations"
+  },
+  {
+    "case_id": 93,
+    "specialty": "Gastroenterology",
+    "symptoms": "jaundice and abdominal pain",
+    "history": "gallstones",
+    "investigations": "ultrasound biliary obstruction",
+    "diagnosis": "Choledocholithiasis",
+    "treatment": "ERCP and surgery",
+    "outcome": "good recovery"
+  },
+  {
+    "case_id": 94,
+    "specialty": "Nephrology",
+    "symptoms": "reduced urine output",
+    "history": "dehydration",
+    "investigations": "elevated creatinine",
+    "diagnosis": "Acute kidney injury",
+    "treatment": "IV fluids and cause correction",
+    "outcome": "renal function normalized"
+  },
+  {
+    "case_id": 95,
+    "specialty": "Infectious Diseases",
+    "symptoms": "chronic cough and weight loss",
+    "history": "TB exposure",
+    "investigations": "positive NAAT and chest imaging",
+    "diagnosis": "Pulmonary tuberculosis",
+    "treatment": "multidrug anti-TB therapy",
+    "outcome": "clinical improvement"
+  },
+  {
+    "case_id": 96,
+    "specialty": "Pediatrics",
+    "symptoms": "wheezing and cough",
+    "history": "allergic background",
+    "investigations": "clinical assessment and spirometry",
+    "diagnosis": "Childhood asthma",
+    "treatment": "inhaled bronchodilators and steroids",
+    "outcome": "good control"
+  },
+  {
+    "case_id": 97,
+    "specialty": "Cardiology",
+    "symptoms": "chest pain on exertion",
+    "history": "hypertension and smoking",
+    "investigations": "ECG with ST depression, positive stress test",
+    "diagnosis": "Stable angina",
+    "treatment": "aspirin, statin, beta-blocker",
+    "outcome": "symptoms improved"
+  },
+  {
+    "case_id": 98,
+    "specialty": "Neurology",
+    "symptoms": "sudden unilateral weakness",
+    "history": "atrial fibrillation",
+    "investigations": "CT brain excludes bleed, MRI infarct",
+    "diagnosis": "Ischemic stroke",
+    "treatment": "thrombolysis when eligible, antiplatelets",
+    "outcome": "partial neurologic recovery"
+  },
+  {
+    "case_id": 99,
+    "specialty": "Endocrinology",
+    "symptoms": "polyuria and polydipsia",
+    "history": "obesity",
+    "investigations": "high HbA1c and fasting glucose",
+    "diagnosis": "Type 2 diabetes mellitus",
+    "treatment": "metformin and lifestyle modification",
+    "outcome": "glycemic control achieved"
+  },
+  {
+    "case_id": 100,
+    "specialty": "Pulmonology",
+    "symptoms": "fever with productive cough",
+    "history": "smoker",
+    "investigations": "chest X-ray consolidation",
+    "diagnosis": "Community-acquired pneumonia",
+    "treatment": "antibiotics and supportive care",
+    "outcome": "full recovery"
+  }
+]
