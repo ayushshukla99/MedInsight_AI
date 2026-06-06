@@ -1,0 +1,653 @@
+The Comprehensive Clinical Master Handbook for MBBS & 
+NEET-PG 
+Focus: High-Yield Internal Medicine (Top 10 Core Topics) 
+1. DIABETES MELLITUS (DM) 
+Definition 
+A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin 
+secretion, insulin action, or both, leading to disturbances in carbohydrate, fat, and protein 
+metabolism. 
+Etiology 
+ Type 1DM: Autoimmune destruction of pancreatic beta-cells (Type IV hypersensitivity), leading to 
+absolute insulin deficiency. Associated with HLA-DR3 and HLA-DR4. 
+ Type 2 DM: Progressive insulin secretory defect on the background of insulin resistance. 
+Associated with obesity, genetics (polygenic), and sedentary lifestyle. 
+ Other Specific Types: Genetic defects of beta-cell function (MODY), pancreatic exocrine disease 
+(chronic pancreatitis, cystic fibrosis), endocrinopathies (Cushing's, Acromegaly), drug-induced 
+(Corticosteroids, Thiazides). 
+ Gestational DM: Onset or first recognition during pregnancy. 
+Pathophysiology 
+ Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) - 
+Autoantibodies (Anti-GAD65, ICA, IAA) - beta-cell destruction - Loss of insulin - Uninhibited 
+gluconeogenesis/glycogenolysis and lipolysis - Hyperglycemia and Ketoacidosis. 
+ Type 2: Visceral obesity/adipokines cause peripheral insulin resistance (decreased GLUT-4 
+translocation in muscle/fat) - Compensatory hyperinsulinemia - Eventual beta-cell exhaustion 
+and apoptosis (amylin amyloid deposition) - Hyperglycemia. Incretin effect (GLP-1/GIP) is also 
+blunted. 
+Clinical Features 
+ Classic Triad: Polyuria (osmotic diuresis), Polydipsia (thirst from hyperosmolarity), Polyphagia. 
+ Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent 
+infections (candidiasis, UTI). 
+ Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (marker of insulin resistance). 
+Diagnosis & Investigations 
+ 1120
+2-hour Post-Prandial (75g OGTT): > 200 mg/dL. 
+ HbAlc: > 6.5% (must be standardized to DCCT assay). 
+ Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. 
+ Note: In the absence of unequivocal hyperglycemia, results require two abnormal test results 
+from the same sample or in two separate test samples. 
+ Investigations: Lipid profile, Serum creatinine, eGFR, Urine albumin-to-creatinine ratio (UACR), 
+Fundoscopy, ECG. Autoantibodies (Type 1), C-peptide (low in Type 1, high/normal in Type 2). 
+Treatment 
+ Type 1DM: Lifelong Insulin therapy (Basal-Bolus regimen is physiological). 
+ Type2DM: 
+ Lifestyle: Diet modification, exercise (150 min/week), weight loss. 
+o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). 
+ Add-on therapy (based on comorbidities): 
+ ASCVD/Heart Failure/CKD: SGLT2 inhibitors (Empagliflozin, Dapagliflozin) or GLP-1RAs 
+(Liraglutide, Semaglutide). SGLT2i provide mortality benefit in HF/CKD. 
+ High cost/Access issues: Sulfonylureas (Glimepiride - risk of hypoglycemia/weight gain), 
+Pioglitazone (risk of edema/HF), DPP-4 inhibitors (Gliptins - weight neutral). 
+ Targets: HbAlc < 7.0% for most non-pregnant adults. 
+Complications 
+ Acute: Diabetic Ketoacidosis (DKA - mostly Type 1), Hyperosmolar Hyperglycemic State (HHS - 
+mostly Type 2), Hypoglycemia. 
+ Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy 
+(Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). 
+ Chronic Macrovascular: Coronary Artery Disease (CAD), Peripheral Arterial Disease (PAD), 
+Cerebrovascular Disease (Stroke). 
+Important Exam Points (NEET-PG) 
+ MCQ Pearl: Most common cause of death in DM type 2 is cardiovascular disease (Myocardial 
+Infarction). 
+ Pathology: Kimmelstiel-Wilson (KW) lesions are nodular glomerulosclerosis, pathognomonic for 
+diabetic nephropathy. Stain PAS positive. 
+ DKA Triad: Hyperglycemia (> 250 mg/dL), Ketosis, High Anion Gap Metabolic Acidosis (pH 
+< 7.3, Bicarb < 18). 
+ Treatment of DKA: IV Fluids (most critical initial step - 0.9% NS) - IV Regular Insulin - 
+Potassium correction (Insulin drives K ' into cells).
+euglycemic DKA and GU infections. 
+2. HYPERTENSION (HTN) 
+Definition 
+Sustained elevation of systemic arterial blood pressure. According to ACC/AHA (2017), HTN is defined 
+as Systolic BP > 130 mmHg OR Diastolic BP > 80 mmHg. (Note: Many global guidelines, including 
+JNC 8 and ESC/ESH, still use > mmHg). 
+Etiology 
+ Primary (Essential) HTN (90-95%): Idiopathic. Complex interplay of genetics, sympathetic 
+nervous system (SNS) hyperactivity, Renin-Angiotensin-Aldosterone System (RAAS) overactivity, 
+defect in natriuresis, high sodium intake, obesity, and alcohol. 
+ Secondary HTN (5-10%): 
+ Renal: Chronic kidney disease, Renal artery stenosis (fibromuscular dysplasia in young 
+females, atherosclerosis in elderly). 
+ Endocrine: Primary Hyperaldosteronism (Conn's syndrome), Pheochromocytoma, Cushing's 
+syndrome, Acromegaly, Thyroid/Parathyroid disorders. 
+o Vascular: Coarctation of the aorta. 
+e Drugs: OCPs, NSAIDs, Corticosteroids, Sympathomimetics. 
+ Other: Obstructive Sleep Apnea (OSA). 
+Pathophysiology 
+Blood Pressure = Cardiac Output (CO) X Systemic Vascular Resistance (SVR). 
+ Increased CO (increased fluid volume via excess sodium or RAAS, or increased sympathetic 
+drive). 
+ Increased SVR (vasoconstriction via Angiotensin II, catecholamines, endothelial 
+dysfunction/decreased Nitric Oxide, vascular remodeling/hypertrophy). 
+Clinical Features 
+ Usually asymptomatic ("Silent Killer"). 
+ May present with morning occipital headache, dizziness, tinnitus, or palpitations. 
+ Secondary HTN clues: Abdominal bruit (Renal Artery Stenosis), delayed radio-femoral delay 
+(Coarctation), episodic sweating/headache/palpitations (Pheochromocytoma), hypokalemia 
+(Primary hyperaldosteronism). 
+Diagnosis & Investigations 
+ Diagnosis: Requires at least two elevated readings on two separate occasions using proper 
+technique. Ambulatory BP Monitoring (ABPM) is the gold standard to rule out "White Coat" and 
+"Masked" HTN.
+o ECG (Left ventricular hypertrophy). 
+ Urinanalysis (proteinuria), Serum Creatinine, BUN, eGFR, Electrolytes (Na*, K+, Ca®"). 
+ Fasting lipid profile, Fasting glucose. 
+ Fundoscopy (Keith-Wagener-Barker grading: | - Tortuosity/Silver wiring, Il - AV nicking, Il - 
+Flame hemorrhages/Cotton wool spots, IV - Papilledema). 
+Treatment 
+Lifestyle Modifications: DASH diet (Dietary Approaches to Stop Hypertension), Sodium 
+restriction (< 1.5 g/day), weight loss (most effective, ~1 mmHg drop per 1kg lost), aerobic 
+exercise, moderation of alcohol. 
+Pharmacotherapy (First-line agents): 
+1. Thiazide diuretics: Chlorthalidone, Hydrochlorothiazide. 
+2. Calcium Channel Blockers {CCB): Amlodipine, Nifedipine (Dihydropyridines). 
+3. ACE Inhibitors / ARBs: Enalapril, Ramipril / Losartan, Telmisartan. (Compelling indication in 
+DM, CKD, HF). 
+Note: Black patients respond better to Thiazides or CCBs. Do not combine ACEi and ARB. 
+Complications 
+Heart: LVH, Heart Failure (HFrEF and HFpEF), CAD, Atrial Fibrillation. 
+Brain: Ischemic stroke, Intracerebral hemorrhage (Charcot-Bouchard microaneurysms), Vascular 
+dementia. 
+Kidney: Hypertensive nephrosclerosis (benign and malignant). 
+Vessels: Aortic dissection, Peripheral arterial disease. 
+Important Exam Points (NEET-PG) 
+Hypertensive Emergency: BP > 180,120 WITH acute target organ damage (Encephalopathy, 
+acute MI, pulmonary edema, aortic dissection). Treat with IV medications (Nitroprusside, 
+Labetalol, Nicardipine). Goal: Reduce MAP by max 25% in the first hour. 
+Hypertensive Urgency: BP > WITHOUT target organ damage. Treat with oral meds. 
+Contraindications: ACEi/ARBs are strictly contraindicated in bilateral renal artery stenosis and 
+pregnancy. 
+Aortic Dissection BP Control: IV Beta-blocker (Esmolol, Labetalol) is first line to reduce d P /dt 
+(shear stress), followed by a vasodilator. 
+3. BRONCHIAL ASTHMA 
+Definition
+respiratory symptoms (wheeze, shortness of breath, chest tightness, and cough) that vary over time 
+and in intensity, together with variable expiratory airflow limitation. 
+Etiology 
+ Atopic (Extrinsic): Type | Hypersensitivity reaction to environmental allergens (dust mites, 
+pollen, pet dander). IgE mediated. Begins in childhood, associated with positive family history 
+and other atopic diseases (eczema, allergic rhinitis). 
+ Non-Atopic (Intrinsic): Triggered by respiratory infections (especially viral), cold air, exercise, 
+stress, irritating fumes. Normal IgE levels. 
+ Drug-Induced: Aspirin-exacerbated respiratory disease (AERD) - Samter's Triad (Asthma, Aspirin 
+sensitivity, Nasal polyps). Due to inhibition of COX, leading to overproduction of leukotrienes. 
+ Occupational: Exposure to sensitizing agents at work (e.g., isocyanates, wood dust). 
+Pathophysiology 
+Exposure to trigger - Activation of Th2 cells - Release of cytokines (IL-4 for IgE class switching, IL- 
+5 for eosinophil recruitment, IL-13 for mucus hypersecretion) - IgE binds to mast cells - Cross- 
+linking by allergen - Degranulation (Histamine, Leukotrienes, Prostaglandins). 
+o Early Phase (Minutes): Bronchoconstriction, edema, increased mucus. 
+ Late Phase (Hours): Infiltration by eosinophils, neutrophils, T-cells causing epithelial damage and 
+hyperreactivity. 
+ Airway Remodeling (Chronic): Smooth muscle hypertrophy, subepithelial fibrosis, mucus gland 
+hyperplasia. 
+Clinical Features 
+ Episodic breathlessness, wheezing, cough (often nocturnal or early morning), chest tightness. 
+ Physical Exam: Prolonged expiratory phase, polyphonic widespread expiratory wheeze, 
+tachypnea, tachycardia. Pulsus paradoxus in severe attacks. 
+Diagnosis & Investigations 
+ Pulmonary Function Tests (Spirometry): Obstructive pattern. FEV; /FV C' < 0.7 (or lower 
+limit of normal). 
+ Reversibility Testing: Increase in FE'V; by > 12% AND > 200 mL after administering a short- 
+acting bronchodilator (SABA like Salbutamol). 
+ Peak Expiratory Flow Rate (PEFR): Diurnal variability > 10% is diagnostic. 
+ Bronchoprovocation Test: Methacholine challenge (if spirometry is normal but asthma is 
+suspected). PCy (provocative concentration causing 20% drop in FEV]) < 8 mg/mLis 
+positive. 
+ Sputum: Curschmann spirals (whorled mucus plugs) and Charcot-Leyden crystals (breakdown 
+products of eosinophils - galectin-10).
+Relievers: Low-dose Inhaled Corticosteroid (ICS) + Formoterol (a LABA with fast onset). This is 
+the preferred reliever in modern guidelines (MART therapy). Alternatively, SABA (Salbutamol) as 
+needed. 
+Controllers (Stepwise): 
+o Step : As-needed low-dose ICS-Formoterol. 
+ Step 3: Low-dose maintenance ICS-LABA. 
+ Step 4: Medium-dose maintenance ICS-LABA. 
+ Step 5: High-dose ICS-LABA + add-on (LAMA e.g., Tiotropium) or Biologics (Omalizumab 
+[anti-IgE], Mepolizumab [anti-IL5]). 
+Acute Exacerbation (Status Asthmaticus): Oxygen, inhaled high-dose SABA + Ipratropium, 
+systemic corticosteroids (Oral Prednisolone or IV Hydrocortisone). IV Magnesium Sulfate in 
+severe cases. 
+Complications 
+Acute severe asthma (Status Asthmaticus), respiratory failure, pneumothorax, cor pulmonale 
+(rare compared to COPD). 
+Important Exam Points (NEET-PG) 
+Normal or high PaC'O, in an acute asthma attack: Indicates impending respiratory failure 
+(muscle fatigue). The patient is usually hypocapnic (respiratory alkalosis) due to tachypnea. 
+Omalizumab: Monoclonal antibody against Fc portion of IgE. Used in severe allergic asthma. 
+Mepolizumab/Reslizumab: IL-5 antagonists, used in severe eosinophilic asthma. 
+Montelukast/Zafirlukast: Leukotriene receptor antagonists. Excellent for Aspirin-induced and 
+exercise-induced asthma. 
+4. CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD) 
+Definition 
+A common, preventable, and treatable disease characterized by persistent respiratory symptoms and 
+irreversible (or poorly reversible) airflow limitation that is due to airway and/or alveolar 
+abnormalities usually caused by significant exposure to noxious particles or gases. 
+Etiology 
+ 
+Tobacco Smoking: Most common cause (> 90% in developed countries). 
+Biomass Fuel Exposure: Major cause in developing countries, especially among women cooking 
+indoors. 
+Occupational Dusts/Chemicals: Coal miners, silica. 
+Genetic: Alpha-1 Antitrypsin (c1-AT) deficiency (causes panacinar emphysema, often lower 
+lobes, in young non-smokers or early in smokers).
+Two main components often coexist: 
+1. Chronic Bronchitis {Airway Disease): Clinically defined as a productive cough for > 3 
+months/year for 2 consecutive years. Hypertrophy and hyperplasia of mucus-secreting glands in 
+bronchi. Reid Index (thickness of mucosal gland layer / thickness of wall between epithelium and 
+cartilage) > 0.4. 
+2. Emphysema {Alveolar Disease): Pathologically defined as permanent enlargement of air spaces 
+distal to terminal bronchioles with destruction of alveolar walls, without obvious fibrosis. 
+Neutrophils/macrophages release elastases; deficiency of anti-elastases (cv;-AT) leads to 
+destruction of elastic tissue. Decreased radial traction causes airway collapse during expiration. 
+Centriacinar (smoking, upper lobes), Panacinar (cv1-AT deficiency, lower lobes). 
+Clinical Features 
+ "Pink Puffers" (Emphysema-predominant): Dyspnea, barrel chest, pursed-lip breathing, thin, 
+hyperventilating, cachectic. Minimal cough. 
+ "Blue Bloaters" (Chronic Bronchitis-predominant): Productive cough, cyanosis, fluid retention 
+(cor pulmonale), obese. 
+ Signs: Barrel chest (increased AP diameter), hyperresonant to percussion, decreased breath 
+sounds, prolonged expiration, wheezes, Hoover's sign (paradoxical indrawing of lower ribs on 
+inspiration). 
+Diagnosis & Investigations 
+ Spirometry: Required for diagnosis. Post-bronchodilator FEV; /FV C < 0.70 confirms 
+persistent airflow limitation. Severity staging (GOLD 1-4) based on FEV] % predicted. 
+ Arterial Blood Gas (ABG): Hypoxemia, hypercapnia (respiratory acidosis) in advanced disease. 
+ CXR: Hyperinflation, flattened diaphragm, increased retrosternal airspace, bullae, narrowed 
+cardiac silhouette (emphysema). 
+ ECG/Echo: P-pulmonale (tall P waves in II, Ill, aVF), RV hypertrophy, Cor Pulmonale. 
+Treatment (GOLD Guidelines) 
+ Smoking cessation: The most effective intervention to slow the decline of lung function. 
+ Vaccinations: Influenza, Pneumococcal, COVID-19. 
+ Pharmacotherapy (grouped by symptoms/exacerbation risk - ABCD assessment): 
+ Group A: SABA or SAMA (Ipratropium) as needed. 
+ Group B: LABA or LAMA (Tiotropium) daily. 
+o Group E (High exacerbation risk): LAMA + LABA, or LAMA + LABA + ICS. (Note: ICS is NEVER 
+used as monotherapy in COPD). 
+ Phosphodiesterase-4 inhibitors (Roflumilast): For severe chronic bronchitis with recurrent 
+exacerbations. 
+ Long-Term Oxygen Therapy (LTOT): Prolongs survival in hypoxemic patients.
+OR PaO, between 56-59 mmHg with evidence of cor pulmonale, right heart failure, or 
+polycythemia (Hematocrit > 55%). Must be worn > 15 hours/day. 
+Complications 
+ Cor pulmonale (Right heart failure secondary to pulmonary hypertension from chronic hypoxic 
+vasoconstriction). 
+ Secondary polycythemia. 
+ Pneumothorax (rupture of emphysematous bullae). 
+ Lung cancer (independent risk factor). 
+Important Exam Points (NEET-PG) 
+ Reid Index: Pathognomonic for Chronic Bronchitis. Normal < 0.4. 
+ Survival Benefit: Only three things have been proven to decrease mortality in COPD: Smoking 
+cessation, LTOT, and Lung Volume Reduction Surgery. (Drugs do NOT improve survival, they only 
+improve symptoms/exacerbations). 
+ Oxygen Therapy in Acute Exacerbation: Give controlled O (Venturi mask targeting 
+88 - 92%). Giving high O can abolish the hypoxic drive, worsen V/Q mismatch (Haldane 
+effect), and cause fatal hypercapnia. 
+5. HEART FAILURE (HF) 
+Definition 
+A complex clinical syndrome that results from any structural or functional impairment of ventricular 
+filling or ejection of blood. It is defined by cardinal symptoms (dyspnea, fatigue) and signs (edema, 
+rales) due to elevated intracardiac pressures and/or inadequate cardiac output at rest or during 
+exercise. 
+Etiology 
+ Ischemic Heart Disease/CAD {Most common): Myocardial infarction causing scar/loss of 
+functioning myocardium. 
+ Hypertension: Causes LV hypertrophy and eventual dysfunction. 
+ Valvular Heart Disease: Aortic stenosis/regurgitation, Mitral regurgitation. 
+ Cardiomyopathies: Dilated (alcohol, viral, doxorubicin, peripartum), Hypertrophic, Restrictive 
+(Amyloidosis, Hemochromatosis). 
+ High-Output HF: Thyrotoxicosis, severe anemia, AV fistulas, Beriberi, Paget's disease. 
+Pathophysiology 
+ Index event decreases Cardiac Output (CO). 
+ Neurohormonal Activation (Compensatory mechanisms that become maladaptive):
+- increases afterload and myocardial oxygen demand -> toxic to myocytes. 
+o RAAS Activation: Decreased renal perfusion - Renin release - Angiotensin Il (potent 
+vasoconstrictor, causes remodeling/fibrosis) - Aldosterone (sodium and water retention, 
+myocardial fibrosis). 
+ Natriuretic Peptides (ANP/BNP): Released in response to atrial/ventricular stretch. Promote 
+vasodilation and natriuresis (counter-regulatory). 
+Classification 
+ HFrEF (Heart Failure with reduced Ejection Fraction): LV EF' < 40%. Systolic dysfunction 
+(inability to pump). 
+ HFmrEF (Mildly reduced EF): LVEF 41 - 49%. 
+ HFpEF (Heart Failure with preserved Ejection Fraction): LV EF > 50%. Diastolic 
+dysfunction (inability to relax/fill). Common in elderly females with HTN and LVH. 
+Clinical Features 
+ Left-Sided HF: Dyspnea on exertion, Orthopnea (dyspnea when supine), Paroxysmal Nocturnal 
+Dyspnea (PND), fatigue. Signs: Basal pulmonary crackles/rales, 53 gallop (volume overload), 
+laterally displaced apex beat. 
+ Right-Sided HF {Most commonly caused by Left-sided HF): Peripheral pitting edema, ascites, 
+right upper quadrant pain (hepatic congestion). Signs: Elevated Jugular Venous Pressure (JVP), 
+hepatojugular reflux, tender hepatomegaly. 
+Diagnosis & Investigations 
+ Echocardiography (Gold Standard): Assesses LVEF, chamber sizes, wall thickness, valvular 
+function, and diastolic function. 
+ BNP or NT-proBNP: Highly sensitive. Excellent for ruling out HF in acute dyspnea (normal levels 
+make HF very unlikely). 
+ CXR: Cardiomegaly (Cardiothoracic ratio > 0.5), Alveolar edema (Bat's wing appearance), 
+Kerley B lines (interstitial edema), Pleural effusion (usually right-sided or bilateral), prominent 
+upper lobe vessels (cephalization). 
+ ECG: Evidence of LVH, prior MI (Q waves), arrhythmias (Atrial Fibrillation). 
+Treatment (HFrEF) 
+ The "Fantastic Four" (Provide mortality benefit - Foundational therapy): 
+1. ARNI (Sacubitril/Valsartan) or ACEiI/ARB: ARNI is superior. 
+2. Beta-Blockers: Bisoprolol, Carvedilol, Metoprolol succinate. (Start low, go slow. Do NOT start 
+in acute decompensated state). 
+3. Mineralocorticoid Receptor Antagonists (MRA): Spironolactone, Eplerenone (monitor for 
+hyperkalemia).
+Symptom Relief: Loop diuretics (Furosemide, Torsemide). Reduce preload/congestion. (No 
+mortality benefit). 
+ Devices: ICD (Implantable Cardioverter-Defibrillator) for EF < 35% to prevent sudden cardiac 
+death. CRT (Cardiac Resynchronization Therapy / Biventricular pacing) for EF < 35% with LBBB 
+and QRS > 150 ms. 
+Complications 
+ Arrhythmias (Atrial fibrillation, Ventricular tachycardia/fibrillation leading to Sudden Cardiac 
+Death). 
+ Cardiorenal syndrome. 
+ Hepatic congestion (Cardiac cirrhosis). 
+Important Exam Points (NEET-PG) 
+ Drugs that Decrease Mortality in HFrEF: ACEiI/ARBs, ARNI, Beta-blockers, Spironolactone, 
+SGLT2i, Hydralazine+Nitrates (in African descent). 
+ Drugs that DO NOT decrease mortality: Loop diuretics, Digoxin. 
+ Digoxin: Positive inotrope, negative chronotrope. Used for symptom control and in HF with Atrial 
+Fibrillation. Toxicity worsened by hypokalemia. Signs of toxicity: Nausea, vomiting, blurry yellow 
+vision (xanthopsia), arrhythmias (PVCs most common, Bidirectional VT is characteristic). 
+ Heart Failure Cells: Hemosiderin-laden macrophages in the lungs. 
+6. MYOCARDIAL INFARCTION (MI/ ACS) 
+Definition 
+Acute Coronary Syndrome (ACS) encompasses a spectrum of conditions compatible with acute 
+myocardial ischemia and/or infarction, due to an abrupt reduction in coronary blood flow. It includes 
+Unstable Angina (UA), Non-ST-Segment Elevation MI (NSTEMI), and ST-Segment Elevation Ml (STEMI). 
+MI Definition: Detection of a rise and/or fall of cardiac biomarkers (Troponin) with at least one value 
+above the 99th percentile URL, along with evidence of myocardial ischemia (symptoms, ECG 
+changes, or imaging). 
+Etiology & Pathophysiology 
+ Atherosclerosis: Rupture, fissuring, or erosion of an unstable atherosclerotic plague - 
+exposure of subendothelial collagen and tissue factor - platelet adhesion and aggregation - 
+activation of coagulation cascade - Thrombus formation. 
+ Subtotal occlusion: UA or NSTEMI. 
+ Total occlusion: STEMI. 
+ Type 2 MI: Ischemia due to increased demand or decreased supply in the absence of acute 
+plaque rupture (e.g., severe anemia, sepsis, coronary spasm / Prinzmetal angina).
+Chest Pain: Retrosternal, crushing/squeezing heavy pain. Radiates to the left arm, neck, jaw, or 
+back. Usually lasts > 20 minutes. Not relieved by rest or nitroglycerin. 
+ Autonomic symptoms: Profuse diaphoresis (sweating), nausea, vomiting, apprehension (feeling 
+of impending doom). 
+ Atypical Presentation: Elderly, women, and diabetics may present without chest pain (silent MI), 
+primarily with dyspnea, fatigue, or syncope. 
+Diagnosis & Investigations 
+ 12-Lead ECG (Perform within 10 minutes): 
+o STEMI: ST-segment elevation > 1 mmin > 2 contiguous leads (except V2-V3, which have 
+age/sex specific cutoffs: > 2 mminmen > 40, > 2.5 mminmen < 40, > 1.5 mmin 
+women). Followed by T wave inversion and pathological Q waves. New LBBB is considered 
+equivalent to STEMI in the right clinical context. 
+ Localizing the infarct: 
+ Anterior: V1-V4 (LAD territory). 
+ Lateral: |, aVvL, V5-V6 (LCx territory). 
+ Inferior: I, Ill, aVF (RCA territory, sometimes LCx). 
+o NSTEMI/UA: ST depression or T wave inversion. 
+ Cardiac Biomarkers: 
+ High-Sensitivity Troponin (I or T): Most sensitive and specific. Rises in 3-4 hours, peaks at 24 
+hours, stays elevated for 7-14 days. 
+o CK-MB: Rises in 4-6 hours, returns to normal in 48-72 hours. Useful for detecting 
+reinfarction. 
+ Echocardiography: Regional wall motion abnormalities (RWMA). 
+Treatment 
+ Immediate (MONA-B is historical; currently focus on anti-ischemic and antithrombotic): 
+ Oxygen (only if Sa0y < 90%). 
+ Nitrates (Sublingual GTN - avoids in Inferior MI/RV infarct as they are preload dependent). 
+o Aspirin (300 mg chewed). 
+ P2Y12 Inhibitor: Ticagrelor or Prasugrel (preferred over Clopidogrel). 
+ Beta-blocker (Oral, to reduce myocardial work; contraindicated in acute HF, heart block, or 
+cocaine use). 
+ High-intensity Statin (Atorvastatin 80 mg). 
+ Anticoagulation: Heparin (UFH or LMWH). 
+ Reperfusion Therapy (Crucial for STEMI):
+time < 90 minutes (or < 120 minutes if transferred from a non-PCl center). 
+ Thrombolysis/Fibrinolysis (Tenecteplase, Alteplase): Used if PCI is unavailable within 120 
+minutes. Goal: Door-to-needle time < 30 minutes. (Contraindicated in active bleeding, 
+recent surgery, prior hemorrhagic stroke). 
+ NSTEMI/UA Management: Antithrombotics + early invasive strategy (angiography within 24-72 
+hours based on risk scoring e.g., GRACE/TIMI score). No thrombolysis in NSTEMI! 
+Complications 
+ Arrhythmias: Ventricular Fibrillation (most common cause of death in the first 48 hours). 
+ Mechanical {3-14 days post-MI): Free wall rupture (cardiac tamponade), Ventricular septal 
+rupture (harsh holosystolic murmur), Papillary muscle rupture (acute severe mitral regurgitation - 
+common in inferior MI). 
+ Inflammatory: 
+ Fibrinous Pericarditis: 1-3 days post-MI. 
+ Dressler Syndrome: 2-8 weeks post-MI (autoimmune fibrinous pericarditis). 
+Important Exam Points (NEET-PG) 
+ Inferior MI (Right Ventricular Infarction): Suspect if elevated JVP, clear lungs, hypotension. 
+Nitrates and Diuretics are strictly contraindicated. Treatment is IV fluids to maintain preload. 
+ Marker for Reinfarction: CK-MB. 
+ ECGleads: I, Ill, aVF (Inferior - RCA); V1-V4 (Anterior - LAD); I, aVL, V5, V6 (Lateral - LCx). 
+7.PNEUMONIA 
+Definition 
+An acute infection of the pulmonary parenchyma. Classified as: 
+ Community-Acquired Pneumonia {(CAP): Acquired outside of a hospital setting or diagnosed 
+within 48 hours of admission. 
+ Hospital-Acquired Pneumonia (HAP): Occurs > 48 hours after admission. 
+ Ventilator-Associated Pneumonia (VAP): Occurs > 48 hours after endotracheal intubation. 
+Etiology 
+ Typical CAP: Streptococcus pneumoniae (Most common overall), Haemophilus influenzae, 
+Moraxella catarrhalis, Staphylococcus aureus (post-viral/influenza). 
+ Atypical CAP: Mycoplasma pneumoniae (young adults, dorms), Chlamydophila pneumoniae, 
+Legionella pneumophila (air conditioning, water tanks, associated with hyponatremia and 
+diarrhea). 
+ HAP/VAP: Enteric Gram-negative bacilli (Klebsiella, E. coli), Pseudomonas aeruginosa, MRSA.
+epileptics, stroke patients (typically affects dependent lobes: superior segment of lower lobe or 
+posterior segment of upper lobe). 
+Viral: Influenza, SARS-CoV-2, RSV. 
+Pathophysiology 
+Microorganisms reach the lower respiratory tract via microaspiration, inhalation, or hematogenous 
+spread. Overwhelms alveolar macrophages - acute inflammatory response (cytokines, neutrophils) 
+- exudate fills alveoli (consolidation) - V/Q mismatch and hypoxemia. Stages of Lobar Pneumonia: 
+Congestion (day 1-2) - Red Hepatization (day 3-4, exudate with RBCs/fibrin) - Gray Hepatization 
+(day 5-7, RBCs disintegrate, neutrophils/fibrin remain) - Resolution (day 8+). 
+Clinical Features 
+Typical: Abrupt onset of high fever with chills/rigors, productive cough (purulent or rust-colored 
+sputum), pleuritic chest pain, dyspnea. 
+Atypical: Insidious onset, low-grade fever, dry cough, prominent extrapulmonary symptoms 
+(headache, myalgia, fatigue). 
+Physical Exam: Signs of consolidation: Tachypnea, dullness to percussion, increased tactile vocal 
+fremitus, bronchial breath sounds, late inspiratory crackles (crepitations), egophony (E to A 
+change), whispering pectoriloquy. 
+Diagnosis & Investigations 
+Chest X-Ray (CXR): Confirms the diagnosis. Shows lobar consolidation, patchy infiltrates 
+(bronchopneumonia), or interstitial infiltrates (atypical). Air bronchograms are a classic sign of 
+alveolar space filling. 
+Sputum Gram Stain & Culture: Useful for targeting therapy (must obtain before antibiotics if 
+possible, but do not delay treatment). 
+Blood Cultures: Positive in ~10% of cases. 
+Urinary Antigens: For Legionella and S. pneumoniae. 
+Biomarkers: Procalcitonin (elevated in bacterial, low in viral). 
+Severity Scoring (CURB-65) 
+Helps determine the site of care (Outpatient vs. Inpatient vs. ICU): 
+Confusion 
+Urea > 7 mmol/L (BUN > 19 mg/dL) 
+Respiratory rate > 30/min 
+Blood pressure (Systolic < 90 or Diastolic < 60) 
+Age > 65 years (Score O-1: Outpatient; Score 2: Ward admission; Score 3+: Severe, consider ICU). 
+Treatment (CAP)
+Outpatient (Comorbidities): Oral Amoxicillin/Clavulanate + Macrolide, OR Respiratory 
+Fluoroquinolone (Levofloxacin/Moxifloxacin). 
+ Inpatient (Ward): IV Beta-lactam (Ceftriaxone) + Macrolide (Azithromycin), OR IV Respiratory 
+Fluoroquinolone. 
+ Inpatient (ICU): IV Beta-lactam (Ceftriaxone, Cefotaxime) + IV Azithromycin or Respiratory 
+Fluoroquinolone. (Add Vancomycin/Linezolid if MRSA suspected; use Piperacillin-Tazobactam if 
+Pseudomonas suspected). 
+Complications 
+ Parapneumonic effusion, Empyema (pus in pleural space), Lung abscess (tissue necrosis with air- 
+fluid level, common with S. aureus, Klebsiella, Anaerobes), Sepsis, ARDS. 
+Important Exam Points (NEET-PG) 
+ Klebsiella pneumoniae: "Currant jelly" sputum, bulging fissure sign on CXR, common in 
+alcoholics. 
+ Legionella: Hyponatremia, diarrhea, relative bradycardia, neurological symptoms. Diagnosis by 
+urine antigen. Treatment: Macrolides or Fluoroquinolones. 
+ Mycoplasma pneumoniae: Cold agglutinins (IgM leading to autoimmune hemolytic anemia), 
+erythema multiforme. 
+ Pneumocystis jirovecii (PCP): Fungal pneumonia in HIV/AIDS (C'D4 < 200). Bilateral ground- 
+glass opacities. Treat/Prophylax with Cotrimoxazole (TMP-SMX). 
+8. TUBERCULOSIS (TB) 
+Definition 
+A chronic, necrotizing granulomatous infectious disease caused by Mycobacterium tuberculosis 
+complex, primarily affecting the lungs (Pulmonary TB) but can affect any organ (Extrapulmonary TB). 
+Etiology 
+ Mycobacterium tuberculosis is an obligate aerobe, non-motile, non-spore-forming bacillus. 
+ Has a lipid-rich cell wall containing mycolic acid, making it acid-fast (retains carbol-fuchsin stain 
+despite acid-alcohol wash). 
+Pathophysiology 
+ Primary TB: Inhalation of droplet nuclei - Bacilli reach alveoli - Phagocytosed by alveolar 
+macrophages but survive intracellularly by inhibiting phagolysosome fusion - Multiplication - 
+Cell-mediated immunity (Type IV hypersensitivity) develops after 2-4 weeks - C'D4™" T cells 
+secrete IFN-y - Macrophage activation and differentiation into epithelioid cells and Langhans 
+giant cells - Formation of caseating granulomas. 
+ Ghon focus: Subpleural lesion in mid/lower zones.
+Ranke complex: Calcified Ghon complex. 
+ Secondary (Reactivation) TB: Reactivation of latent infection, usually when host immunity drops 
+(HIV, diabetes, steroids, aging). Typically occurs in the apices of the lungs (high oxygen tension). 
+Tends to cavitate. 
+Clinical Features 
+ Pulmonary TB: Chronic cough (dry initially, then purulent), Hemoptysis, Low-grade evening-rise 
+fever, Night sweats, Anorexia, Weight loss. 
+ Extrapulmonary TB (EPTB): 
+ Lymphadenitis: Most common EPTB. Painless, matted cervical nodes (Scrofula). 
+ Pleural TB: Exudative effusion with high lymphocytes and high ADA (Adenosine Deaminase). 
+ Skeletal TB: Pott's disease (TB of the spine), cold abscesses. 
+ CNS TB: TB meningitis (basal exudates, cranial nerve palsies, CSF shows high protein, low 
+glucose, lymphocytosis). 
+ Genitourinary: "Sterile" pyuria, epididymitis, female infertility (endometrial TB). 
+Diagnosis & Investigations 
+ Sputum Smear Microscopy: Ziehl-Neelsen (ZN) stain or Fluorescent staining (Auramine- 
+Rhodamine). Requires at least 2 samples (one early morning). 
+ CBNAAT (GeneXpert MTB/RIF) / Truenat: Nucleic acid amplification test. Gold standard for 
+rapid diagnosis. Detects TB DNA and Rifampicin resistance within 2 hours. Endorsed by NTEP as 
+the initial diagnostic test. 
+ Culture: MGIT (Mycobacteria Growth Indicator Tube) - liquid culture is faster (1-3 weeks) than 
+solid Lowenstein-Jensen (LJ) medium (4-8 weeks). Gold standard for drug susceptibility testing. 
+ CXR: Apical cavitations, fibronodular infiltrates, miliary mottling (millet seed appearance). 
+ Latent TB Tests: Mantoux test (Tuberculin Skin Test - measures delayed hypersensitivity) and 
+IGRA (Interferon-Gamma Release Assay - e.g., QuantiFERON-TB Gold). These do not distinguish 
+latent from active disease. 
+Treatment (NTEP Guidelines) 
+ First-Line Drugs (HRZE): 
+ Isoniazid {(H): Bactericidal. SE: Peripheral neuropathy (prevent with Pyridoxine/Bé), Hepatitis, 
+Drug-induced lupus. 
+ Rifampicin (R): Bactericidal. SE: Orange-red urine/secretions, Hepatitis, potent CYP450 
+inducer (decreases efficacy of OCPs, ART). 
+ Pyrazinamide {Z): Acts in acidic environment (intracellular). SE: Hyperuricemia (gout), most 
+hepatotoxic of all. 
+ Ethambutol (E): Bacteriostatic. SE: Optic neuritis (decreased visual acuity, red-green color 
+blindness). NOT hepatotoxic.
+Intensive Phase: 2 months of HRZE. 
+ Continuation Phase: 4 months of HRE (some guidelines use HR). Total duration: 6 months. 
+Complications 
+ Massive hemoptysis (rupture of Rasmussen's aneurysm). 
+ Spontaneous pneumothorax, bronchiectasis. 
+ Aspergilloma (fungus ball forming in a pre-existing healed TB cavity). Cor Puimonale. 
+Important Exam Points (NEET-PG) 
+ MDR-TB: Resistant to at least Isoniazid and Rifampicin. 
+ XDR-TB: MDR-TB + resistant to any fluoroquinolone and at least one additional Group A drug 
+(Bedaquiline or Linezolid). 
+ Most Hepatotoxic Anti-TB Drug: Pyrazinamide > Isoniazid > Rifampicin. Ethambutol and 
+Streptomycin are safe for the liver. 
+ Safein Pregnancy: H, R, Z, E. (Streptomycin is absolutely contraindicated - causes fetal 
+ototoxicity). 
+9. ANEMIA 
+Definition 
+A reduction in the total circulating red cell mass, clinically indicated by a decrease in Hemoglobin (Hb) 
+concentration or Hematocrit below the lower limit of normal for age, sex, and altitude. (WHO criteria: 
+Hb < 13.0 g/dL in adult men, < 12.0 g/dL in non-pregnant adult women, < 11.0 g/dL in pregnancy). 
+Classification based on Mean Corpuscular Volume (MCV) 
+1. Microcytic Hypochromic (MCV < 80 fL): TAILS (Thalassemia, Anemia of chronic disease, Iron 
+deficiency, Lead poisoning, Sideroblastic anemia). 
+2. Macrocytic (MCV > 100 fL): 
+ Megaloblastic: Vitamin B12 deficiency, Folate deficiency. (Impaired DNA synthesis). 
+ Non-Megaloblastic: Liver disease, Alcoholism, Hypothyroidism, Reticulocytosis. 
+3. Normocytic Normochromic {MCV 80-100 fL): Acute blood loss, Hemolysis, Chronic kidney 
+disease (low EPO), Aplastic anemia. 
+A. Iron Deficiency Anemia (IDA) - Most Common Worldwide 
+ Etiology: Chronic blood loss (Gl bleed, heavy menses, hookworm in developing nations), 
+increased demand (pregnancy, childhood), decreased absorption (Celiac disease, post- 
+gastrectomy). 
+ Pathophysiology: Depletion of iron stores (Ferritin) - Lack of iron for heme synthesis - 
+Microcytic hypochromic RBCs.
+shaped nails), angular cheilitis, glossitis. Plummer-Vinson syndrome (Triad of IDA, esophageal 
+web, dysphagia). 
+ Diagnosis: Hb (low), MCV (low), MCH (low). Peripheral smear: Microcytic hypochromic cells, 
+pencillcigar cells. 
+ Iron Profile: Serum Ferritin (Low - most sensitive), Serum Iron (Low), TIBC (High), Transferrin 
+saturation (Low < 15%). 
+ Treatment: Identify and treat the underlying cause. Oral elemental iron (Ferrous 
+sulfate/fumarate/ascorbate). IV iron if oral is intolerant or malabsorption is present. Reticulocyte 
+count increases in 5-7 days; Hb normalizes in 2 months. 
+B. Megaloblastic Anemia (B12 / Folate Deficiency) 
+ Etiology: 
+ Vit B12 (Cobalamin): Pernicious anemia (autoantibodies against intrinsic factor or parietal 
+cells), strict vegan diet, Crohn's disease, terminal ileum resection, Diphyllobothrium latum 
+(fish tapeworm). 
+ Folate (B9): Dietary lack (tea and toast diet), alcoholism, increased demand (pregnancy), 
+drugs (Methotrexate, Phenytoin). 
+ Pathophysiology: Defective DNA synthesis causing nuclear-cytoplasmic asynchrony. 
+ Clinical Features: Pallor, mild jaundice (ineffective erythropoiesis), beefy red tongue. 
+ Specific to B12: Subacute Combined Degeneration of Spinal Cord (demyelination of dorsal 
+columns and lateral corticospinal tracts) causing loss of position/vibration sense, ataxia, 
+upper motor neuron signs. Folate deficiency has NO neurological symptoms. 
+ Diagnosis: High MCV. Peripheral smear: Macro-ovalocytes, hypersegmented neutrophils (> 5 
+lobes). 
+ Homocysteine is elevated in both. 
+ Methylmalonic acid (MMA) is elevated ONLY in B12 deficiency. 
+ Treatment: Parenteral/oral B12, Oral Folic acid. Caution: Treating B12 deficiency with folate alone 
+corrects the anemia but allows neurological damage to progress irreversibly. 
+C. Hemolytic Anemias 
+ Features: Jaundice (unconjugated bilirubinemia), gallstones (pigment stones), splenomegaly, 
+dark urine. Lab: High reticulocyte count, high LDH, low Haptoglobin. 
+ Sickle Cell Anemia: Point mutation (Glutamic acid to Valine at 6th position of 5-globin chain). 
+Causes HbS polymerization under hypoxia. Presents with vaso-occlusive crises (pain, dactylitis), 
+autosplenectomy (risk of encapsulated organism infections). Diagnosis: Hb electrophoresis. 
+Treatment: Hydroxyurea (increases HbF). 
+ Thalassemia: Quantitative defect in globin chain synthesis. 3-Thalassemia major presents with 
+severe anemia at 6 months of age (when HbF transitions to HbA), hepatosplenomegaly, "crew- 
+cut" appearance on skull X-ray, chipmunk facies. Diagnosis: Hb electrophoresis (elevated HbA2 
+and HbF).
+o Warm (IgG): Extravascular hemolysis in spleen. SLE, CLL, drugs. Direct Coombs test positive. 
+ Cold (IgM): Intravascular hemolysis. Mycoplasma, EBV. 
+ G6PD Deficiency: X-linked recessive. Oxidative stress (Sulfa drugs, Antimalarials, Fava beans, 
+infections) causes hemolysis. Smear: Bite cells, Heinz bodies. 
+Important Exam Points (NEET-PG) 
+ Mentzer Index: MCV / RBC count. Mentzer Index > 13 suggests IDA; < 13 suggests 
+Thalassemia trait. 
+ Pancytopenia with low reticulocyte count: Think Aplastic Anemia (bone marrow hypocellularity, 
+fat replacement). 
+ Schistocytes (Helmet cells): Microangiopathic hemolytic anemia (TTP, HUS, DIC). 
+10. THYROID DISORDERS 
+Definition 
+Disorders involving abnormal production of thyroid hormones (T3 and T4), leading to a systemic state 
+of decreased metabolic rate (Hypothyroidism) or increased metabolic rate 
+(Hyperthyroidism/Thyrotoxicosis). 
+A. HYPOTHYROIDISM 
+ Etiology: 
+ Primary (Most common): Hashimoto's thyroiditis (autoimmune), latrogenic (post-radioactive 
+iodine or thyroidectomy), lodine deficiency (most common cause worldwide). 
+ Secondary/Tertiary: Pituitary adenoma, Hypothalamic disease (rare). 
+ Pathophysiology: Hashimoto's involves C D8 T-cell mediated destruction of thyroid follicles 
+and autoantibodies. Lack of T3/T4 decreases basal metabolic rate and increases deposition of 
+glycosaminoglycans (myxedema). 
+ Clinical Features: Fatigue, cold intolerance, weight gain despite poor appetite, constipation, dry 
+thick skin, hair loss (outer third of eyebrows), bradycardia, delayed relaxation phase of deep 
+tendon reflexes, hoarseness, menstrual irregularities (menorrhagia), depressed mood. 
+ Diagnosis: 
+o Primary: High TSH, Low Free T4. (Subclinical: High TSH, Normal Free T4). 
+ Secondary: Low/Normal TSH, Low Free T4. 
+ Antibodies: Anti-TPO (Thyroid Peroxidase) and Anti-Thyroglobulin antibodies are massively 
+elevated in Hashimoto's. 
+ Treatment: Levothyroxine (synthetic T4) once daily on an empty stomach. Monitor TSH levels 
+every 6-8 weeks to adjust the dose. Target TSH is typically 0.5-4.0 mIU/L (tighter control in 
+pregnancy).
+respiratory failure, altered sensorium). Treat with IV Levothyroxine, IV Hydrocortisone, warming. 
+B. HYPERTHYROIDISM (THYROTOXICOSIS) 
+ Etiology: 
+ Graves' Disease (Most common, 60-80%): Autoimmune disorder. 
+ Toxic Multinodular Goiter (TMNG): Autonomous functioning thyroid nodules (usually older 
+adults). 
+ Toxic Adenoma: Single hyperfunctioning nodule. 
+ Thyroiditis: Subacute (De Quervain's - painful, post-viral), Silent/Postpartum. Initial 
+destruction releases pre-formed hormone (transient hyperthyroidism). 
+ Pathophysiology of Graves": IgG autoantibodies bind to and stimulate the TSH receptor (Thyroid 
+Stimulating Immunoglobulins - TSI). Drives excess T3/T4 production and diffuse glandular growth. 
+ Clinical Features: Heat intolerance, weight loss despite increased appetite, palpitations, 
+tremors, sweating, frequent bowel movements, anxiety, tachycardia, atrial fibrillation. 
+ Specific to Graves' (Extrathyroidal manifestations due to TSI action on fibroblasts): 
+Exophthalmos/Proptosis (bulging eyes), Pretibial myxedema (non-pitting edema on shins), 
+Thyroid acropachy (clubbing). 
+ Diagnosis: 
+ Low/suppressed TSH (< 0.1), High Free T4 and/or T3. 
+ Antibodies: TSI/ TRAB (TSH Receptor Antibodies) positive in Graves'. 
+ Radioactive lodine Uptake (RAIU) Scan: 
+ Diffuse high uptake: Graves'. 
+ Patchy multiple areas of high uptake: TMNG. 
+ Single hot nodule: Toxic adenoma. 
+ Lowl/absent uptake: Thyroiditis or exogenous hormone intake (factitious). 
+ Treatment: 
+ Symptom control: Beta-blockers (Propranolol - also blocks peripheral conversion of T4 to T3). 
+ Antithyroid Drugs (Thionamides): 
++ Methimazole / Carbimazole: First-line for most. 
+ Propylthiouracil (PTU): Preferred in the first trimester of pregnancy (Methimazole 
+causes aplasia cutis) and in Thyroid Storm. Inhibits peripheral conversion of T4 to T3. 
+Major side effect for both: Agranulocytosis (presents as fever and sore throat), 
+Hepatotoxicity. 
+ Radioactive lodine Ablation (*3! I): Definitive therapy. Can worsen Graves' ophthalmopathy. 
+ Surgery: Subtotal/total thyroidectomy (risk of recurrent laryngeal nerve injury, 
+hypoparathyroidism). 
+ Complication: Thyroid Storm. Acute, life-threatening hypermetabolic state (fever > 104°F, 
+delirium, tachycardia, shock). Treat with Propranolol, PTU, SSKI (Lugol's iodine - given 1 hour after

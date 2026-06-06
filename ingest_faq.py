@@ -69,6 +69,7 @@ def load_faq_documents(csv_path: str) -> list[Document]:
                     "faq_id": str(row["id"]),
                     "category": row["category"],
                     "question": row["question"],
+                    "source_type": "faq"
                 },
             )
         )

@@ -51,6 +51,7 @@ def load_case_documents(json_path: str) -> list[Document]:
     for case in cases:
 
         content = (
+            f"Clinical Case\n"
             f"Specialty: {case['specialty']}\n"
             f"Symptoms: {case['symptoms']}\n"
             f"History: {case['history']}\n"
@@ -67,7 +68,8 @@ def load_case_documents(json_path: str) -> list[Document]:
                     "source": "cases",
                     "case_id": str(case["case_id"]),
                     "specialty": case["specialty"],
-                    "diagnosis": case["diagnosis"]
+                    "diagnosis": case["diagnosis"],
+                    "source_type": "clinical_case"
                 }
             )
         )

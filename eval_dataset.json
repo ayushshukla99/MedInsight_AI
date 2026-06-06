@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is Type 2 diabetes mellitus?",
+    "expected_sources": ["handbook", "cases"]
+  },
+  {
+    "question": "What are symptoms of hypertension?",
+    "expected_sources": ["handbook", "faq"]
+  },
+  {
+    "question": "How is asthma defined?",
+    "expected_sources": ["handbook"]
+  },
+  {
+    "question": "What is the treatment of Type 2 diabetes?",
+    "expected_sources": ["handbook", "cases"]
+  },
+  {
+    "question": "What are diagnostic criteria for hypertension?",
+    "expected_sources": ["faq", "handbook"]
+  }
+]

@@ -126,7 +126,7 @@ def run_rag(user_question: str):
     docs = rerank_documents(
         rewritten_query,
         docs,
-        top_k=3
+        top_k=5
     )
 
     print("\n===== RERANKED DOCS =====")

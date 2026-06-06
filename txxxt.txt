@@ -1,0 +1,784 @@
+"""
+Ingests data/medical_handbook.pdf into the 'handbook' Chroma collection.
+
+The medical handbook is loaded, cleaned, split chapter-wise,
+embedded using HuggingFace embeddings, and stored in ChromaDB.
+
+Run:
+    python ingest_pdf.py
+"""
+
+import os
+import re
+
+os.environ["TRANSFORMERS_VERBOSITY"] = "error"
+
+from langchain_core.documents import Document
+from langchain_community.document_loaders import PyPDFLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_chroma import Chroma
+from langchain_huggingface import HuggingFaceEmbeddings
+
+
+# ---------------------------------------------------
+# CONFIG
+# ---------------------------------------------------
+
+CHROMA_DIR = "chroma_store"
+
+COLLECTION = "handbook"
+
+PDF_PATH = os.path.join(
+    "data",
+    "medical_handbook.pdf"
+)
+
+EMBED_MODEL = (
+    "sentence-transformers/all-MiniLM-L6-v2"
+)
+
+CHUNK_SIZE = 1000
+CHUNK_OVERLAP = 200
+
+
+# ---------------------------------------------------
+# CHAPTER SPLITTING
+# ---------------------------------------------------
+
+def split_by_chapters(pages):
+
+    full_text = "\n".join(
+        page.page_content
+        for page in pages
+    )
+    with open("debug_handbook.txt", "w", encoding="utf-8") as f:
+        f.write(full_text)
+
+    chapter_pattern = re.compile(
+        r"(?<!\S)(\d+\.\s+[A-Z][A-Z\s\(\)\-]{8,80})(?=\s+Definition)"
+    )
+    for match in chapter_pattern.finditer(full_text):
+        print(match.group(1))
+    matches = list(
+        chapter_pattern.finditer(full_text)
+    )
+
+    if not matches:
+
+        print(
+            "No chapter headings found. Using full document."
+        )
+
+        return [
+            Document(
+                page_content=full_text,
+                metadata={
+                    "chapter": "FULL_DOCUMENT",
+                    "source": "handbook",
+                    "source_type": "medical_handbook"
+                }
+            )
+        ]
+
+    chapter_docs = []
+
+    for i, match in enumerate(matches):
+
+        start = match.start()
+
+        end = (
+            matches[i + 1].start()
+            if i + 1 < len(matches)
+            else len(full_text)
+        )
+
+        chapter_title = match.group(1).strip()
+
+        chapter_title = re.sub(
+            r"\s+[A-Z]$",
+            "",
+            chapter_title
+        )
+
+        chapter_text = full_text[start:end]
+
+        chapter_docs.append(
+            Document(
+                page_content=
+                    f"CHAPTER: {chapter_title}\n\n"
+                    + chapter_text,
+                metadata={
+                    "chapter": chapter_title,
+                    "source": "handbook",
+                    "source_type": "medical_handbook"
+                }
+            )
+        )
+
+    print(
+        f"Detected {len(chapter_docs)} chapters."
+    )
+
+    print("\n===== CHAPTERS DETECTED =====")
+
+    for doc in chapter_docs:
+        print(doc.metadata["chapter"])
+
+    return chapter_docs
+
+
+
+
+
+def split_chapter_into_sections(chapter_docs):
+
+    section_pattern = re.compile(
+        r"\n(Definition|Etiology|Pathophysiology|Clinical Features|Diagnosis\s*&\s*Investigations|Treatment|Complications|Important Exam Points.*?)\n",
+        re.IGNORECASE
+    )
+
+    section_docs = []
+
+    for chapter in chapter_docs:
+
+        text = chapter.page_content
+
+        matches = list(
+            section_pattern.finditer(text)
+        )
+
+        if not matches:
+
+            section_docs.append(chapter)
+            continue
+
+        for i, match in enumerate(matches):
+
+            start = match.start()
+
+            end = (
+                matches[i + 1].start()
+                if i + 1 < len(matches)
+                else len(text)
+            )
+
+            section_name = match.group(1).strip()
+
+            section_text = text[start:end]
+
+            section_docs.append(
+                Document(
+                    page_content=section_text,
+                    metadata={
+                        "chapter": chapter.metadata["chapter"],
+                        "section": section_name,
+                        "source": "handbook",
+                        "source_type": "medical_handbook"
+                    }
+                )
+            )
+
+    return section_docs
+
+# ---------------------------------------------------
+# MAIN
+# ---------------------------------------------------
+
+def main():
+
+    print("Loading medical handbook...")
+
+    loader = PyPDFLoader(PDF_PATH)
+
+    pages = loader.load()
+
+    print(
+        f"{len(pages)} handbook pages loaded."
+    )
+
+    # ---------------------------------------------------
+    # CLEAN TEXT
+    # ---------------------------------------------------
+
+    print("Cleaning PDF text...")
+
+    for page in pages:
+
+        text = page.page_content
+
+        # Remove URLs
+        text = re.sub(
+            r"https?://\S+",
+            " ",
+            text,
+            flags=re.IGNORECASE
+        )
+
+        text = re.sub(
+            r"gemini\.google\.com\S*",
+            " ",
+            text,
+            flags=re.IGNORECASE
+        )
+
+        # Remove Gemini export artifacts
+        text = re.sub(
+            r".*Google Gemini.*",
+            " ",
+            text,
+            flags=re.IGNORECASE
+        )
+
+        # Remove timestamps
+        text = re.sub(
+            r"\d{1,2}/\d{1,2}/\d{2,4},\s*\d{1,2}:\d{2}\s*(AM|PM)",
+            " ",
+            text,
+            flags=re.IGNORECASE
+        )
+
+        # Remove page markers like 1/20
+        text = re.sub(
+            r"\b\d+\s*/\s*\d+\b",
+            " ",
+            text
+        )
+
+        # Remove standalone page numbers
+        text = re.sub(
+            r"^\s*\d+\s*$",
+            " ",
+            text,
+            flags=re.MULTILINE
+        )
+
+        # Remove PDF bullet garbage
+        text = re.sub(
+            r"[«»▪◦•]",
+            " ",
+            text
+        )
+
+        # Normalize dashes
+        text = re.sub(
+            r"[—–]",
+            "-",
+            text
+        )
+
+        # Fix common PDF extraction errors
+        text = text.replace(
+            "3-cell",
+            "beta-cell"
+        )
+
+        text = text.replace(
+            "[-cell",
+            "beta-cell"
+        )
+
+        text = text.replace(
+            "S-cells",
+            "beta-cells"
+        )
+
+        # Remove isolated garbage numbers
+        text = re.sub(
+            r"\n\s*\d{3,5}\s*\n",
+            "\n",
+            text
+        )
+
+        # Remove broken URL remnants
+        text = re.sub(
+            r"h\w+tps?://\S*",
+            " ",
+            text,
+            flags=re.IGNORECASE
+        )
+
+        # Remove weird fragments like 12/20
+        text = re.sub(
+            r"\b\d{1,2}/20\b",
+            " ",
+            text
+        )
+
+        # Normalize line endings
+        text = text.replace("\r\n", "\n")
+        text = text.replace("\r", "\n")
+
+        # Remove trailing spaces
+        text = re.sub(
+            r"[ \t]+",
+            " ",
+            text
+        )
+
+        # Collapse excessive blank lines
+        text = re.sub(
+            r"\n{3,}",
+            "\n\n",
+            text
+        )
+        text = re.sub(
+            r"\n\s*\d{3,5}\s*\n",
+            "\n",
+            text
+        )
+        text = re.sub(
+            r"\n\s*\d{3,5}\s*\n",
+            "\n",
+            text
+        )       
+
+        # Final cleanup
+        text = text.strip()
+        page.page_content = text.strip()
+
+    # Remove tiny garbage pages
+
+    pages = [
+        page
+        for page in pages
+        if len(page.page_content.strip()) > 50
+    ]
+    print("\n===== SAMPLE CLEANED PAGE =====")
+    print(pages[0].page_content[:2000])
+
+    print(
+        f"{len(pages)} cleaned pages retained."
+    )
+
+    # ---------------------------------------------------
+    # CHAPTER SPLITTING
+    # ---------------------------------------------------
+
+    chapter_docs = split_by_chapters(
+        pages
+    )
+    chapter_docs = split_chapter_into_sections(
+        chapter_docs
+    )
+    for doc in chapter_docs[:15]:
+        print("\n----------------")
+        print(doc.metadata)
+        print(doc.page_content[:200])
+    
+    
+    print("\n===== CHAPTERS DETECTED =====")
+
+    for doc in chapter_docs:
+
+        print("\n------------------")
+        print("CHAPTER:")
+        print(doc.metadata["chapter"])
+
+        print("\nSTARTS WITH:")
+        print(doc.page_content[:300])
+
+    for doc in chapter_docs:
+        print("="*50)
+        print(doc.metadata)
+        print(doc.page_content[:300])
+
+    
+
+    # ---------------------------------------------------
+    # CHUNKING
+    # ---------------------------------------------------
+
+    print(
+        f"Chunking (size={CHUNK_SIZE}, overlap={CHUNK_OVERLAP})..."
+    )
+
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=CHUNK_SIZE,
+        chunk_overlap=CHUNK_OVERLAP,
+        separators=[
+            "\n\n",
+            "\n",
+            ". ",
+            " ",
+            ""
+        ]
+    )
+
+    chunks = splitter.split_documents(
+        chapter_docs
+    )
+    chunks = [
+        chunk
+        for chunk in chunks
+        if len(chunk.page_content.strip()) > 100
+    ]
+
+    print(chunks[0].metadata)
+    print(chunks[1].metadata)
+    print(chunks[2].metadata)
+
+
+    print("\n===== FIRST 5 CHUNKS =====")
+
+    for i, chunk in enumerate(chunks[:5]):
+
+        print("\n------------------")
+        print(f"CHUNK {i}")
+
+        print("CHAPTER:")
+        print(chunk.metadata.get("chapter"))
+
+        print("\nCONTENT:")
+        print(chunk.page_content[:500])
+
+    # ---------------------------------------------------
+    # METADATA
+    # ---------------------------------------------------
+
+    for i, chunk in enumerate(chunks):
+
+        chunk.metadata["source"] = "handbook"
+
+        chunk.metadata["source_type"] = (
+            "medical_handbook"
+        )
+
+        chunk.metadata["chunk_index"] = i
+
+        chunk.metadata["chapter"] = (
+            chunk.metadata.get(
+                "chapter",
+                "Unknown"
+            )
+        )
+
+    print(
+        f"{len(chunks)} chunks produced."
+    )
+
+    # ---------------------------------------------------
+    # EMBEDDINGS
+    # ---------------------------------------------------
+
+    print(
+        "Initialising embedding model..."
+    )
+
+    embeddings = HuggingFaceEmbeddings(
+        model_name=EMBED_MODEL
+    )
+
+    if not chunks:
+
+        raise ValueError(
+            "No chunks generated from PDF."
+        )
+
+    # ---------------------------------------------------
+    # STORE
+    # ---------------------------------------------------
+
+    print(
+        f"Embedding and storing in Chroma collection '{COLLECTION}'..."
+    )
+
+    vectorstore = Chroma.from_documents(
+        documents=chunks,
+        embedding=embeddings,
+        collection_name=COLLECTION,
+        persist_directory=CHROMA_DIR,
+    )
+
+    print(
+        f"Done. {vectorstore._collection.count()} vectors stored."
+    )
+
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    reranker
+from sentence_transformers import CrossEncoder
+
+# Load once at startup
+reranker = CrossEncoder(
+    "BAAI/bge-reranker-base"
+)
+
+
+def rerank_documents(
+    query: str,
+    docs: list,
+    top_k: int = 3
+):
+    """
+    Rerank retrieved documents using CrossEncoder
+    with source-aware boosting.
+    """
+
+    if not docs:
+        return []
+
+    pairs = [
+        (query, doc.page_content)
+        for doc in docs
+    ]
+
+    scores = reranker.predict(pairs)
+
+    scored_docs = []
+
+    for score, doc in zip(scores, docs):
+
+        score = float(score)
+
+        scored_docs.append(
+            (score, doc)
+        )
+    scored_docs.sort(
+        key=lambda x: x[0],
+        reverse=True
+    )
+
+    print("\n===== RERANKED SCORES =====")
+
+    for rank, (score, doc) in enumerate(
+        scored_docs,
+        start=1
+    ):
+        print(f"\nRANK {rank}")
+        print(f"SCORE: {score:.4f}")
+        print("SOURCE:", doc.metadata.get("source"))
+        print("CHAPTER:", doc.metadata.get("chapter"))
+        print(doc.page_content[:200])
+
+    # ----------------------------------
+    # Retrieval Threshold
+    # ----------------------------------
+
+    best_score = scored_docs[0][0]
+
+    threshold = max(
+        best_score * 0.50,
+        0.25
+    )
+
+    print(
+        f"\nTHRESHOLD: {threshold:.4f}"
+    )
+
+    filtered_docs = [
+        doc
+        for score, doc in scored_docs
+        if score >= threshold
+    ]
+
+    if not filtered_docs:
+
+        filtered_docs = [
+            doc
+            for score, doc
+            in scored_docs[:top_k]
+        ]
+
+    print("\n===== AFTER THRESHOLD =====")
+
+    for doc in filtered_docs:
+
+        print(
+            f"SOURCE: {doc.metadata.get('source')}"
+        )
+
+        print(
+            f"CHAPTER: {doc.metadata.get('chapter')}"
+        )
+
+        print(
+            doc.page_content[:150]
+        )
+
+        print("-" * 50)
+
+    print("\nDocuments kept:", len(filtered_docs))
+
+    return filtered_docs[:top_k]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    retriver
+
+"""
+Builds a merged retriever across all three Chroma collections:
+
+- faq       : Medical FAQ entries
+- cases     : Clinical case studies
+- handbook  : Medical handbook chunks
+"""
+
+from langchain_chroma import Chroma
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_core.runnables import RunnableLambda
+from langchain_core.documents import Document
+
+CHROMA_DIR = "chroma_store"
+
+EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+
+
+def build_retriever(
+    k_faq: int = 5,
+    k_cases: int = 5,
+    k_handbook: int = 6,
+) -> RunnableLambda:
+
+    embeddings = HuggingFaceEmbeddings(
+        model_name=EMBED_MODEL
+    )
+
+    faq_store = Chroma(
+        collection_name="faq",
+        embedding_function=embeddings,
+        persist_directory=CHROMA_DIR,
+    )
+
+    cases_store = Chroma(
+        collection_name="cases",
+        embedding_function=embeddings,
+        persist_directory=CHROMA_DIR,
+    )
+
+    handbook_store = Chroma(
+        collection_name="handbook",
+        embedding_function=embeddings,
+        persist_directory=CHROMA_DIR,
+    )
+
+    faq_retriever = faq_store.as_retriever(
+        search_type="mmr",
+        search_kwargs={
+            "k": k_faq,
+            "fetch_k": 15,
+            "lambda_mult": 0.7
+        }
+    )
+
+    cases_retriever = cases_store.as_retriever(
+        search_type="mmr",
+        search_kwargs={
+            "k": k_cases,
+            "fetch_k": 15,
+            "lambda_mult": 0.7
+        }
+    )
+
+    handbook_retriever = handbook_store.as_retriever(
+        search_type="mmr",
+        search_kwargs={
+            "k": k_handbook,
+            "fetch_k": 20,
+            "lambda_mult": 0.7
+        }
+    )
+
+    def retrieve(query: str) -> list[Document]:
+
+        faq_docs = faq_retriever.invoke(query)
+
+        case_docs = cases_retriever.invoke(query)
+
+        handbook_docs = handbook_retriever.invoke(query)
+
+        all_docs = (
+            faq_docs
+            + case_docs
+            + handbook_docs
+        )
+
+        seen = set()
+        unique_docs = []
+
+        for doc in all_docs:
+
+            if doc.page_content not in seen:
+
+                seen.add(doc.page_content)
+
+                unique_docs.append(doc)
+
+        print("\n===== MMR RETRIEVAL =====")
+
+        for i, doc in enumerate(unique_docs, start=1):
+            print(f"\nDOC {i}")
+            print("SOURCE:", doc.metadata.get("source"))
+            print("CHAPTER:", doc.metadata.get("chapter"))
+            print(doc.page_content[:200])
+            
+        return unique_docs
+
+    return RunnableLambda(retrieve)

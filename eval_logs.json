@@ -1,0 +1,2103 @@
+[
+  {
+    "timestamp": 1780756050.5803823,
+    "query": "What is Type 2 Diabetes?",
+    "retrieved": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      }
+    ],
+    "reranked": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      }
+    ],
+    "final": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "timestamp": 1780757335.0194094,
+    "query": "What is Type 2 Diabetes?",
+    "retrieved": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      }
+    ],
+    "reranked": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      }
+    ],
+    "final": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "timestamp": 1780757350.4683175,
+    "query": "What are the diagnostic criteria for hypertension?",
+    "retrieved": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "2. HYPERTENSION (HTN) Definition Sustained elevation of systemic arterial blood pressure. According to ACC/AHA (2017), HTN is defined as Systolic BP > 130 mmHg OR Diastolic BP > 80 mmHg. (Note: Many g"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". 3. ACE Inhibitors / ARBs: Enalapril, Ramipril / Losartan, Telmisartan. (Compelling indication in DM, CKD, HF). Note: Black patients respond better to Thiazides or CCBs. Do not combine ACEi and ARB. "
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Clinical Features \u00ab Usually asymptomatic (\"Silent Killer\"). \u00ab May present with morning occipital headache, dizziness, tinnitus, or palpitations. \u00ab Secondary HTN clues: Abdominal bruit (Renal Artery "
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Common in elderly females with HTN and LVH. Clinical Features \u00ab Left-Sided HF: Dyspnea on exertion, Orthopnea (dyspnea when supine), Paroxysmal Nocturnal Dyspnea (PND), fatigue. Signs: Basal pulmona"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". \u00ab Endocrine: Primary Hyperaldosteronism (Conn's syndrome), Pheochromocytoma, Cushing's syndrome, Acromegaly, Thyroid/Parathyroid disorders. o Vascular: Coarctation of the aorta. e Drugs: OCPs, NSAID"
+      }
+    ],
+    "reranked": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "2. HYPERTENSION (HTN) Definition Sustained elevation of systemic arterial blood pressure. According to ACC/AHA (2017), HTN is defined as Systolic BP > 130 mmHg OR Diastolic BP > 80 mmHg. (Note: Many g"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". 3. ACE Inhibitors / ARBs: Enalapril, Ramipril / Losartan, Telmisartan. (Compelling indication in DM, CKD, HF). Note: Black patients respond better to Thiazides or CCBs. Do not combine ACEi and ARB. "
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Clinical Features \u00ab Usually asymptomatic (\"Silent Killer\"). \u00ab May present with morning occipital headache, dizziness, tinnitus, or palpitations. \u00ab Secondary HTN clues: Abdominal bruit (Renal Artery "
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Common in elderly females with HTN and LVH. Clinical Features \u00ab Left-Sided HF: Dyspnea on exertion, Orthopnea (dyspnea when supine), Paroxysmal Nocturnal Dyspnea (PND), fatigue. Signs: Basal pulmona"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". \u00ab Endocrine: Primary Hyperaldosteronism (Conn's syndrome), Pheochromocytoma, Cushing's syndrome, Acromegaly, Thyroid/Parathyroid disorders. o Vascular: Coarctation of the aorta. e Drugs: OCPs, NSAID"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      }
+    ],
+    "final": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "2. HYPERTENSION (HTN) Definition Sustained elevation of systemic arterial blood pressure. According to ACC/AHA (2017), HTN is defined as Systolic BP > 130 mmHg OR Diastolic BP > 80 mmHg. (Note: Many g"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". 3. ACE Inhibitors / ARBs: Enalapril, Ramipril / Losartan, Telmisartan. (Compelling indication in DM, CKD, HF). Note: Black patients respond better to Thiazides or CCBs. Do not combine ACEi and ARB. "
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Clinical Features \u00ab Usually asymptomatic (\"Silent Killer\"). \u00ab May present with morning occipital headache, dizziness, tinnitus, or palpitations. \u00ab Secondary HTN clues: Abdominal bruit (Renal Artery "
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Common in elderly females with HTN and LVH. Clinical Features \u00ab Left-Sided HF: Dyspnea on exertion, Orthopnea (dyspnea when supine), Paroxysmal Nocturnal Dyspnea (PND), fatigue. Signs: Basal pulmona"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". \u00ab Endocrine: Primary Hyperaldosteronism (Conn's syndrome), Pheochromocytoma, Cushing's syndrome, Acromegaly, Thyroid/Parathyroid disorders. o Vascular: Coarctation of the aorta. e Drugs: OCPs, NSAID"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "timestamp": 1780757366.9318967,
+    "query": "What are the management strategies for diabetic ketoacidosis?",
+    "retrieved": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: acute crushing chest pain\nHistory: diabetes and dyslipidemia\nInvestigations: ECG STEMI changes, elevated troponin\nDiagnosis: ST-elevation myocardial infar"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "o ECG (Left ventricular hypertrophy). \u00ab Urinanalysis (proteinuria), Serum Creatinine, BUN, eGFR, Electrolytes (Na*, K+, Ca\u00ae\"). \u00ab Fasting lipid profile, Fasting glucose. \u00ab Fundoscopy (Keith-Wagener-Bar"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      }
+    ],
+    "reranked": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "o ECG (Left ventricular hypertrophy). \u00ab Urinanalysis (proteinuria), Serum Creatinine, BUN, eGFR, Electrolytes (Na*, K+, Ca\u00ae\"). \u00ab Fasting lipid profile, Fasting glucose. \u00ab Fundoscopy (Keith-Wagener-Bar"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: acute crushing chest pain\nHistory: diabetes and dyslipidemia\nInvestigations: ECG STEMI changes, elevated troponin\nDiagnosis: ST-elevation myocardial infar"
+      }
+    ],
+    "final": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "o ECG (Left ventricular hypertrophy). \u00ab Urinanalysis (proteinuria), Serum Creatinine, BUN, eGFR, Electrolytes (Na*, K+, Ca\u00ae\"). \u00ab Fasting lipid profile, Fasting glucose. \u00ab Fundoscopy (Keith-Wagener-Bar"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: acute crushing chest pain\nHistory: diabetes and dyslipidemia\nInvestigations: ECG STEMI changes, elevated troponin\nDiagnosis: ST-elevation myocardial infar"
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "timestamp": 1780757379.0703685,
+    "query": "What is the definition and classification of diabetes mellitus?",
+    "retrieved": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". 2. Macrocytic (MCV > 100 fL): \u00ab Megaloblastic: Vitamin B12 deficiency, Folate deficiency. (Impaired DNA synthesis). \u00ab Non-Megaloblastic: Liver disease, Alcoholism, Hypothyroidism, Reticulocytosis. 3"
+      }
+    ],
+    "reranked": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". 2. Macrocytic (MCV > 100 fL): \u00ab Megaloblastic: Vitamin B12 deficiency, Folate deficiency. (Impaired DNA synthesis). \u00ab Non-Megaloblastic: Liver disease, Alcoholism, Hypothyroidism, Reticulocytosis. 3"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      }
+    ],
+    "final": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". 2. Macrocytic (MCV > 100 fL): \u00ab Megaloblastic: Vitamin B12 deficiency, Folate deficiency. (Impaired DNA synthesis). \u00ab Non-Megaloblastic: Liver disease, Alcoholism, Hypothyroidism, Reticulocytosis. 3"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "timestamp": 1780757394.7788122,
+    "query": "What are the symptoms and complications associated with chronic hypertension?",
+    "retrieved": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is the mechanism of action of beta-blockers?\nAnswer: Beta-blockers inhibit beta-adrenergic receptors, reducing heart rate, contractility, and renin release. They are used in hypertensio"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: weight loss and palpitations\nHistory: autoimmune history\nInvestigations: low TSH, high T4\nDiagnosis: Graves disease\nTreatment: antithyroid drugs\nOutcom"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "2. HYPERTENSION (HTN) Definition Sustained elevation of systemic arterial blood pressure. According to ACC/AHA (2017), HTN is defined as Systolic BP > 130 mmHg OR Diastolic BP > 80 mmHg. (Note: Many g"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "o ECG (Left ventricular hypertrophy). \u00ab Urinanalysis (proteinuria), Serum Creatinine, BUN, eGFR, Electrolytes (Na*, K+, Ca\u00ae\"). \u00ab Fasting lipid profile, Fasting glucose. \u00ab Fundoscopy (Keith-Wagener-Bar"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". \u00ab Endocrine: Primary Hyperaldosteronism (Conn's syndrome), Pheochromocytoma, Cushing's syndrome, Acromegaly, Thyroid/Parathyroid disorders. o Vascular: Coarctation of the aorta. e Drugs: OCPs, NSAID"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Treat with IV medications (Nitroprusside, Labetalol, Nicardipine). Goal: Reduce MAP by max 25% in the first hour. Hypertensive Urgency: BP > WITHOUT target organ damage. Treat with oral meds. Contra"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "handbook",
+        "chapter": "4. CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)",
+        "text": "4. CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD) Definition A common, preventable, and treatable disease characterized by persistent respiratory symptoms and irreversible (or poorly reversible) airflow"
+      }
+    ],
+    "reranked": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is the mechanism of action of beta-blockers?\nAnswer: Beta-blockers inhibit beta-adrenergic receptors, reducing heart rate, contractility, and renin release. They are used in hypertensio"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "2. HYPERTENSION (HTN) Definition Sustained elevation of systemic arterial blood pressure. According to ACC/AHA (2017), HTN is defined as Systolic BP > 130 mmHg OR Diastolic BP > 80 mmHg. (Note: Many g"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "o ECG (Left ventricular hypertrophy). \u00ab Urinanalysis (proteinuria), Serum Creatinine, BUN, eGFR, Electrolytes (Na*, K+, Ca\u00ae\"). \u00ab Fasting lipid profile, Fasting glucose. \u00ab Fundoscopy (Keith-Wagener-Bar"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". \u00ab Endocrine: Primary Hyperaldosteronism (Conn's syndrome), Pheochromocytoma, Cushing's syndrome, Acromegaly, Thyroid/Parathyroid disorders. o Vascular: Coarctation of the aorta. e Drugs: OCPs, NSAID"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Treat with IV medications (Nitroprusside, Labetalol, Nicardipine). Goal: Reduce MAP by max 25% in the first hour. Hypertensive Urgency: BP > WITHOUT target organ damage. Treat with oral meds. Contra"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "handbook",
+        "chapter": "4. CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)",
+        "text": "4. CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD) Definition A common, preventable, and treatable disease characterized by persistent respiratory symptoms and irreversible (or poorly reversible) airflow"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: weight loss and palpitations\nHistory: autoimmune history\nInvestigations: low TSH, high T4\nDiagnosis: Graves disease\nTreatment: antithyroid drugs\nOutcom"
+      }
+    ],
+    "final": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is the mechanism of action of beta-blockers?\nAnswer: Beta-blockers inhibit beta-adrenergic receptors, reducing heart rate, contractility, and renin release. They are used in hypertensio"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "2. HYPERTENSION (HTN) Definition Sustained elevation of systemic arterial blood pressure. According to ACC/AHA (2017), HTN is defined as Systolic BP > 130 mmHg OR Diastolic BP > 80 mmHg. (Note: Many g"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": "o ECG (Left ventricular hypertrophy). \u00ab Urinanalysis (proteinuria), Serum Creatinine, BUN, eGFR, Electrolytes (Na*, K+, Ca\u00ae\"). \u00ab Fasting lipid profile, Fasting glucose. \u00ab Fundoscopy (Keith-Wagener-Bar"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". \u00ab Endocrine: Primary Hyperaldosteronism (Conn's syndrome), Pheochromocytoma, Cushing's syndrome, Acromegaly, Thyroid/Parathyroid disorders. o Vascular: Coarctation of the aorta. e Drugs: OCPs, NSAID"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Treat with IV medications (Nitroprusside, Labetalol, Nicardipine). Goal: Reduce MAP by max 25% in the first hour. Hypertensive Urgency: BP > WITHOUT target organ damage. Treat with oral meds. Contra"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "5. HEART FAILURE (HF) Definition A complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood. It is defined by cardinal symptoms ("
+      },
+      {
+        "source": "handbook",
+        "chapter": "4. CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)",
+        "text": "4. CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD) Definition A common, preventable, and treatable disease characterized by persistent respiratory symptoms and irreversible (or poorly reversible) airflow"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: weight loss and palpitations\nHistory: autoimmune history\nInvestigations: low TSH, high T4\nDiagnosis: Graves disease\nTreatment: antithyroid drugs\nOutcom"
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "timestamp": 1780757427.2861552,
+    "query": "What are the diagnostic tests used to diagnose diabetes, including hemoglobin A1c (HbA1c), oral glucose tolerance test (OGTT), and random blood glucose testing?",
+    "retrieved": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is tuberculosis diagnosed?\nAnswer: Tuberculosis is diagnosed using sputum microscopy, nucleic acid amplification tests, culture, and imaging. Diagnosis is supported by clinical findings "
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: weight loss and palpitations\nHistory: autoimmune history\nInvestigations: low TSH, high T4\nDiagnosis: Graves disease\nTreatment: antithyroid drugs\nOutcom"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: reduced urine output\nHistory: dehydration\nInvestigations: elevated creatinine\nDiagnosis: Acute kidney injury\nTreatment: IV fluids and cause correction\nOut"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Clinical Features \u00ab Usually asymptomatic (\"Silent Killer\"). \u00ab May present with morning occipital headache, dizziness, tinnitus, or palpitations. \u00ab Secondary HTN clues: Abdominal bruit (Renal Artery "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". Diagnosis: Hb electrophoresis. Treatment: Hydroxyurea (increases HbF). \u00ab Thalassemia: Quantitative defect in globin chain synthesis. 3-Thalassemia major presents with severe anemia at 6 months of ag"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      }
+    ],
+    "reranked": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is tuberculosis diagnosed?\nAnswer: Tuberculosis is diagnosed using sputum microscopy, nucleic acid amplification tests, culture, and imaging. Diagnosis is supported by clinical findings "
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Clinical Features \u00ab Usually asymptomatic (\"Silent Killer\"). \u00ab May present with morning occipital headache, dizziness, tinnitus, or palpitations. \u00ab Secondary HTN clues: Abdominal bruit (Renal Artery "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". Diagnosis: Hb electrophoresis. Treatment: Hydroxyurea (increases HbF). \u00ab Thalassemia: Quantitative defect in globin chain synthesis. 3-Thalassemia major presents with severe anemia at 6 months of ag"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: weight loss and palpitations\nHistory: autoimmune history\nInvestigations: low TSH, high T4\nDiagnosis: Graves disease\nTreatment: antithyroid drugs\nOutcom"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: reduced urine output\nHistory: dehydration\nInvestigations: elevated creatinine\nDiagnosis: Acute kidney injury\nTreatment: IV fluids and cause correction\nOut"
+      }
+    ],
+    "final": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is tuberculosis diagnosed?\nAnswer: Tuberculosis is diagnosed using sputum microscopy, nucleic acid amplification tests, culture, and imaging. Diagnosis is supported by clinical findings "
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Clinical Features \u00ab Usually asymptomatic (\"Silent Killer\"). \u00ab May present with morning occipital headache, dizziness, tinnitus, or palpitations. \u00ab Secondary HTN clues: Abdominal bruit (Renal Artery "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". Diagnosis: Hb electrophoresis. Treatment: Hydroxyurea (increases HbF). \u00ab Thalassemia: Quantitative defect in globin chain synthesis. 3-Thalassemia major presents with severe anemia at 6 months of ag"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: weight loss and palpitations\nHistory: autoimmune history\nInvestigations: low TSH, high T4\nDiagnosis: Graves disease\nTreatment: antithyroid drugs\nOutcom"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: reduced urine output\nHistory: dehydration\nInvestigations: elevated creatinine\nDiagnosis: Acute kidney injury\nTreatment: IV fluids and cause correction\nOut"
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "timestamp": 1780757460.9998665,
+    "query": "What is the diagnosis and treatment for a patient presenting with polyuria, polydipsia, obesity, and elevated HbA1c levels?",
+    "retrieved": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is tuberculosis diagnosed?\nAnswer: Tuberculosis is diagnosed using sputum microscopy, nucleic acid amplification tests, culture, and imaging. Diagnosis is supported by clinical findings "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". Diagnosis: Hb electrophoresis. Treatment: Hydroxyurea (increases HbF). \u00ab Thalassemia: Quantitative defect in globin chain synthesis. 3-Thalassemia major presents with severe anemia at 6 months of ag"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Common in elderly females with HTN and LVH. Clinical Features \u00ab Left-Sided HF: Dyspnea on exertion, Orthopnea (dyspnea when supine), Paroxysmal Nocturnal Dyspnea (PND), fatigue. Signs: Basal pulmona"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Treat with IV medications (Nitroprusside, Labetalol, Nicardipine). Goal: Reduce MAP by max 25% in the first hour. Hypertensive Urgency: BP > WITHOUT target organ damage. Treat with oral meds. Contra"
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". SE: Hyperuricemia (gout), most hepatotoxic of all. \u00ab Ethambutol (E): Bacteriostatic. SE: Optic neuritis (decreased visual acuity, red-green color blindness). NOT hepatotoxic. hitps://"
+      }
+    ],
+    "reranked": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is tuberculosis diagnosed?\nAnswer: Tuberculosis is diagnosed using sputum microscopy, nucleic acid amplification tests, culture, and imaging. Diagnosis is supported by clinical findings "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". Diagnosis: Hb electrophoresis. Treatment: Hydroxyurea (increases HbF). \u00ab Thalassemia: Quantitative defect in globin chain synthesis. 3-Thalassemia major presents with severe anemia at 6 months of ag"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Common in elderly females with HTN and LVH. Clinical Features \u00ab Left-Sided HF: Dyspnea on exertion, Orthopnea (dyspnea when supine), Paroxysmal Nocturnal Dyspnea (PND), fatigue. Signs: Basal pulmona"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Treat with IV medications (Nitroprusside, Labetalol, Nicardipine). Goal: Reduce MAP by max 25% in the first hour. Hypertensive Urgency: BP > WITHOUT target organ damage. Treat with oral meds. Contra"
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". SE: Hyperuricemia (gout), most hepatotoxic of all. \u00ab Ethambutol (E): Bacteriostatic. SE: Optic neuritis (decreased visual acuity, red-green color blindness). NOT hepatotoxic. hitps://"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      }
+    ],
+    "final": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What are the diagnostic criteria for hypertension?\nAnswer: Hypertension is diagnosed by persistently elevated blood pressure, generally \u2265140/90 mmHg in clinic settings, confirmed with repeat"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is tuberculosis diagnosed?\nAnswer: Tuberculosis is diagnosed using sputum microscopy, nucleic acid amplification tests, culture, and imaging. Diagnosis is supported by clinical findings "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". Diagnosis: Hb electrophoresis. Treatment: Hydroxyurea (increases HbF). \u00ab Thalassemia: Quantitative defect in globin chain synthesis. 3-Thalassemia major presents with severe anemia at 6 months of ag"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Common in elderly females with HTN and LVH. Clinical Features \u00ab Left-Sided HF: Dyspnea on exertion, Orthopnea (dyspnea when supine), Paroxysmal Nocturnal Dyspnea (PND), fatigue. Signs: Basal pulmona"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Treat with IV medications (Nitroprusside, Labetalol, Nicardipine). Goal: Reduce MAP by max 25% in the first hour. Hypertensive Urgency: BP > WITHOUT target organ damage. Treat with oral meds. Contra"
+      },
+      {
+        "source": "handbook",
+        "chapter": "8. TUBERCULOSIS (TB)",
+        "text": ". SE: Hyperuricemia (gout), most hepatotoxic of all. \u00ab Ethambutol (E): Bacteriostatic. SE: Optic neuritis (decreased visual acuity, red-green color blindness). NOT hepatotoxic. hitps://"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "timestamp": 1780757496.1224782,
+    "query": "What is the diagnosis and management for a patient presenting with chest pain on exertion and ST depression on ECG?",
+    "retrieved": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is acute coronary syndrome?\nAnswer: Acute coronary syndrome includes unstable angina, NSTEMI, and STEMI caused by reduced coronary blood flow. Management includes antiplatelets, anticoa"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is acute coronary syndrome?\nAnswer: Acute coronary syndrome includes unstable angina, NSTEMI, and STEMI caused by reduced coronary blood flow. Management includes antiplatelets, anticoa"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is acute coronary syndrome?\nAnswer: Acute coronary syndrome includes unstable angina, NSTEMI, and STEMI caused by reduced coronary blood flow. Management includes antiplatelets, anticoa"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is heart failure treated?\nAnswer: Heart failure treatment includes ACE inhibitors, beta-blockers, mineralocorticoid antagonists, SGLT2 inhibitors, diuretics, lifestyle modification, and "
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is the mechanism of action of beta-blockers?\nAnswer: Beta-blockers inhibit beta-adrenergic receptors, reducing heart rate, contractility, and renin release. They are used in hypertensio"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "\u00ab Chest Pain: Retrosternal, crushing/squeezing heavy pain. Radiates to the left arm, neck, jaw, or back. Usually lasts > 20 minutes. Not relieved by rest or nitroglycerin. \u00ab Autonomic symptoms: Profus"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Clinical Features Typical: Abrupt onset of high fever with chills/rigors, productive cough (purulent or rust-colored sputum), pleuritic chest pain, dyspnea. Atypical: Insidious onset, low-grade feve"
+      },
+      {
+        "source": "handbook",
+        "chapter": "3. BRONCHIAL ASTHMA",
+        "text": ". Clinical Features \u00ab Episodic breathlessness, wheezing, cough (often nocturnal or early morning), chest tightness. \u00ab Physical Exam: Prolonged expiratory phase, polyphonic widespread expiratory wheeze"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". \u00ab Digoxin: Positive inotrope, negative chronotrope. Used for symptom control and in HF with Atrial Fibrillation. Toxicity worsened by hypokalemia. Signs of toxicity: Nausea, vomiting, blurry yellow "
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". \u00ab Endocrine: Primary Hyperaldosteronism (Conn's syndrome), Pheochromocytoma, Cushing's syndrome, Acromegaly, Thyroid/Parathyroid disorders. o Vascular: Coarctation of the aorta. e Drugs: OCPs, NSAID"
+      },
+      {
+        "source": "handbook",
+        "chapter": "4. CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)",
+        "text": ". \u00ab Pharmacotherapy (grouped by symptoms/exacerbation risk - ABCD assessment): \u00ab Group A: SABA or SAMA (Ipratropium) as needed. \u00ab Group B: LABA or LAMA (Tiotropium) daily. o Group E (High exacerbation"
+      }
+    ],
+    "reranked": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is acute coronary syndrome?\nAnswer: Acute coronary syndrome includes unstable angina, NSTEMI, and STEMI caused by reduced coronary blood flow. Management includes antiplatelets, anticoa"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is heart failure treated?\nAnswer: Heart failure treatment includes ACE inhibitors, beta-blockers, mineralocorticoid antagonists, SGLT2 inhibitors, diuretics, lifestyle modification, and "
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is the mechanism of action of beta-blockers?\nAnswer: Beta-blockers inhibit beta-adrenergic receptors, reducing heart rate, contractility, and renin release. They are used in hypertensio"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "\u00ab Chest Pain: Retrosternal, crushing/squeezing heavy pain. Radiates to the left arm, neck, jaw, or back. Usually lasts > 20 minutes. Not relieved by rest or nitroglycerin. \u00ab Autonomic symptoms: Profus"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Clinical Features Typical: Abrupt onset of high fever with chills/rigors, productive cough (purulent or rust-colored sputum), pleuritic chest pain, dyspnea. Atypical: Insidious onset, low-grade feve"
+      },
+      {
+        "source": "handbook",
+        "chapter": "3. BRONCHIAL ASTHMA",
+        "text": ". Clinical Features \u00ab Episodic breathlessness, wheezing, cough (often nocturnal or early morning), chest tightness. \u00ab Physical Exam: Prolonged expiratory phase, polyphonic widespread expiratory wheeze"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". \u00ab Digoxin: Positive inotrope, negative chronotrope. Used for symptom control and in HF with Atrial Fibrillation. Toxicity worsened by hypokalemia. Signs of toxicity: Nausea, vomiting, blurry yellow "
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". \u00ab Endocrine: Primary Hyperaldosteronism (Conn's syndrome), Pheochromocytoma, Cushing's syndrome, Acromegaly, Thyroid/Parathyroid disorders. o Vascular: Coarctation of the aorta. e Drugs: OCPs, NSAID"
+      },
+      {
+        "source": "handbook",
+        "chapter": "4. CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)",
+        "text": ". \u00ab Pharmacotherapy (grouped by symptoms/exacerbation risk - ABCD assessment): \u00ab Group A: SABA or SAMA (Ipratropium) as needed. \u00ab Group B: LABA or LAMA (Tiotropium) daily. o Group E (High exacerbation"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      }
+    ],
+    "final": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is acute coronary syndrome?\nAnswer: Acute coronary syndrome includes unstable angina, NSTEMI, and STEMI caused by reduced coronary blood flow. Management includes antiplatelets, anticoa"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is heart failure treated?\nAnswer: Heart failure treatment includes ACE inhibitors, beta-blockers, mineralocorticoid antagonists, SGLT2 inhibitors, diuretics, lifestyle modification, and "
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is the mechanism of action of beta-blockers?\nAnswer: Beta-blockers inhibit beta-adrenergic receptors, reducing heart rate, contractility, and renin release. They are used in hypertensio"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": "\u00ab Chest Pain: Retrosternal, crushing/squeezing heavy pain. Radiates to the left arm, neck, jaw, or back. Usually lasts > 20 minutes. Not relieved by rest or nitroglycerin. \u00ab Autonomic symptoms: Profus"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Clinical Features Typical: Abrupt onset of high fever with chills/rigors, productive cough (purulent or rust-colored sputum), pleuritic chest pain, dyspnea. Atypical: Insidious onset, low-grade feve"
+      },
+      {
+        "source": "handbook",
+        "chapter": "3. BRONCHIAL ASTHMA",
+        "text": ". Clinical Features \u00ab Episodic breathlessness, wheezing, cough (often nocturnal or early morning), chest tightness. \u00ab Physical Exam: Prolonged expiratory phase, polyphonic widespread expiratory wheeze"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". \u00ab Digoxin: Positive inotrope, negative chronotrope. Used for symptom control and in HF with Atrial Fibrillation. Toxicity worsened by hypokalemia. Signs of toxicity: Nausea, vomiting, blurry yellow "
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". \u00ab Endocrine: Primary Hyperaldosteronism (Conn's syndrome), Pheochromocytoma, Cushing's syndrome, Acromegaly, Thyroid/Parathyroid disorders. o Vascular: Coarctation of the aorta. e Drugs: OCPs, NSAID"
+      },
+      {
+        "source": "handbook",
+        "chapter": "4. CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)",
+        "text": ". \u00ab Pharmacotherapy (grouped by symptoms/exacerbation risk - ABCD assessment): \u00ab Group A: SABA or SAMA (Ipratropium) as needed. \u00ab Group B: LABA or LAMA (Tiotropium) daily. o Group E (High exacerbation"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Cardiology\nSymptoms: chest pain on exertion\nHistory: hypertension and smoking\nInvestigations: ECG with ST depression, positive stress test\nDiagnosis: Stable angina\nTreatment: "
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "timestamp": 1780757535.9051733,
+    "query": "What condition is characterized by facial puffiness, proteinuria, and low serum albumin, and what is the treatment for this condition?",
+    "retrieved": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is hypothyroidism?\nAnswer: Hypothyroidism is a deficiency of thyroid hormone leading to fatigue, weight gain, cold intolerance, and bradycardia. Diagnosis relies on elevated TSH with lo"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Common in elderly females with HTN and LVH. Clinical Features \u00ab Left-Sided HF: Dyspnea on exertion, Orthopnea (dyspnea when supine), Paroxysmal Nocturnal Dyspnea (PND), fatigue. Signs: Basal pulmona"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Clinical Features Typical: Abrupt onset of high fever with chills/rigors, productive cough (purulent or rust-colored sputum), pleuritic chest pain, dyspnea. Atypical: Insidious onset, low-grade feve"
+      },
+      {
+        "source": "handbook",
+        "chapter": "3. BRONCHIAL ASTHMA",
+        "text": ". IV Magnesium Sulfate in severe cases. Complications Acute severe asthma (Status Asthmaticus), respiratory failure, pneumothorax, cor pulmonale (rare compared to COPD). Important Exam Points (NEET-PG"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Treat with IV medications (Nitroprusside, Labetalol, Nicardipine). Goal: Reduce MAP by max 25% in the first hour. Hypertensive Urgency: BP > WITHOUT target organ damage. Treat with oral meds. Contra"
+      }
+    ],
+    "reranked": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is hypothyroidism?\nAnswer: Hypothyroidism is a deficiency of thyroid hormone leading to fatigue, weight gain, cold intolerance, and bradycardia. Diagnosis relies on elevated TSH with lo"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Common in elderly females with HTN and LVH. Clinical Features \u00ab Left-Sided HF: Dyspnea on exertion, Orthopnea (dyspnea when supine), Paroxysmal Nocturnal Dyspnea (PND), fatigue. Signs: Basal pulmona"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Clinical Features Typical: Abrupt onset of high fever with chills/rigors, productive cough (purulent or rust-colored sputum), pleuritic chest pain, dyspnea. Atypical: Insidious onset, low-grade feve"
+      },
+      {
+        "source": "handbook",
+        "chapter": "3. BRONCHIAL ASTHMA",
+        "text": ". IV Magnesium Sulfate in severe cases. Complications Acute severe asthma (Status Asthmaticus), respiratory failure, pneumothorax, cor pulmonale (rare compared to COPD). Important Exam Points (NEET-PG"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Treat with IV medications (Nitroprusside, Labetalol, Nicardipine). Goal: Reduce MAP by max 25% in the first hour. Hypertensive Urgency: BP > WITHOUT target organ damage. Treat with oral meds. Contra"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      }
+    ],
+    "final": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is hypothyroidism?\nAnswer: Hypothyroidism is a deficiency of thyroid hormone leading to fatigue, weight gain, cold intolerance, and bradycardia. Diagnosis relies on elevated TSH with lo"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Common in elderly females with HTN and LVH. Clinical Features \u00ab Left-Sided HF: Dyspnea on exertion, Orthopnea (dyspnea when supine), Paroxysmal Nocturnal Dyspnea (PND), fatigue. Signs: Basal pulmona"
+      },
+      {
+        "source": "handbook",
+        "chapter": "5. HEART FAILURE (HF)",
+        "text": ". Clinical Features Typical: Abrupt onset of high fever with chills/rigors, productive cough (purulent or rust-colored sputum), pleuritic chest pain, dyspnea. Atypical: Insidious onset, low-grade feve"
+      },
+      {
+        "source": "handbook",
+        "chapter": "3. BRONCHIAL ASTHMA",
+        "text": ". IV Magnesium Sulfate in severe cases. Complications Acute severe asthma (Status Asthmaticus), respiratory failure, pneumothorax, cor pulmonale (rare compared to COPD). Important Exam Points (NEET-PG"
+      },
+      {
+        "source": "handbook",
+        "chapter": "2. HYPERTENSION (HTN)",
+        "text": ". Treat with IV medications (Nitroprusside, Labetalol, Nicardipine). Goal: Reduce MAP by max 25% in the first hour. Hypertensive Urgency: BP > WITHOUT target organ damage. Treat with oral meds. Contra"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Nephrology\nSymptoms: facial puffiness and edema\nHistory: recent infection\nInvestigations: proteinuria and low albumin\nDiagnosis: Nephrotic syndrome\nTreatment: steroids and sal"
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "timestamp": 1780757576.5060506,
+    "query": "A patient diagnosed with Type 2 Diabetes Mellitus requires treatment. Explain the treatment regimen and clarify whether insulin is considered the first-line therapy for this condition.",
+    "retrieved": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is heart failure treated?\nAnswer: Heart failure treatment includes ACE inhibitors, beta-blockers, mineralocorticoid antagonists, SGLT2 inhibitors, diuretics, lifestyle modification, and "
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: weight loss and palpitations\nHistory: autoimmune history\nInvestigations: low TSH, high T4\nDiagnosis: Graves disease\nTreatment: antithyroid drugs\nOutcom"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Gastroenterology\nSymptoms: epigastric pain\nHistory: NSAID use\nInvestigations: endoscopy ulcer\nDiagnosis: Peptic ulcer disease\nTreatment: PPI therapy\nOutcome: ulcer healed"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      }
+    ],
+    "reranked": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is heart failure treated?\nAnswer: Heart failure treatment includes ACE inhibitors, beta-blockers, mineralocorticoid antagonists, SGLT2 inhibitors, diuretics, lifestyle modification, and "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: weight loss and palpitations\nHistory: autoimmune history\nInvestigations: low TSH, high T4\nDiagnosis: Graves disease\nTreatment: antithyroid drugs\nOutcom"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Gastroenterology\nSymptoms: epigastric pain\nHistory: NSAID use\nInvestigations: endoscopy ulcer\nDiagnosis: Peptic ulcer disease\nTreatment: PPI therapy\nOutcome: ulcer healed"
+      }
+    ],
+    "final": [
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: What is diabetes mellitus?\nAnswer: Diabetes mellitus is a metabolic disorder characterized by chronic hyperglycemia due to impaired insulin secretion, insulin action, or both. Long-term comp"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is diabetic ketoacidosis managed?\nAnswer: Management includes intravenous fluids, insulin therapy, potassium monitoring and replacement, and treatment of precipitating causes. Early reco"
+      },
+      {
+        "source": "faq",
+        "chapter": null,
+        "text": "Question: How is heart failure treated?\nAnswer: Heart failure treatment includes ACE inhibitors, beta-blockers, mineralocorticoid antagonists, SGLT2 inhibitors, diuretics, lifestyle modification, and "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "\u00ab 2-hour Post-Prandial (75g OGTT): > 200 mg/dL. \u00ab HbAlc: > 6.5% (must be standardized to DCCT assay). \u00ab Random Plasma Glucose: > 200 mg/dL with classic symptoms of hyperglycemia or crisis. \u00ab Note: In "
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": "1. DIABETES MELLITUS (DM) Definition A metabolic disorder characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both, leading to disturbances in carboh"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Type2DM: \u00ab Lifestyle: Diet modification, exercise (150 min/week), weight loss. o First-line: Metformin (decreases hepatic gluconeogenesis; avoid if eGFR < 30). \u00ab Add-on therapy (based on comorbidi"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Gestational DM: Onset or first recognition during pregnancy. Pathophysiology \u00ab Type 1: Genetic predisposition + environmental trigger (e.g., Coxsackie B virus) \u2014 Autoantibodies (Anti-GAD65, ICA, I"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Chronic Microvascular: Retinopathy (Non-proliferative vs. Proliferative), Nephropathy (Kimmelstiel-Wilson nodules), Neuropathy (Stocking-glove sensorimotor, Autonomic). \u00ab Chronic Macrovascular: Co"
+      },
+      {
+        "source": "handbook",
+        "chapter": "1. DIABETES MELLITUS (DM)",
+        "text": ". \u00ab Other: Unexplained weight loss (Type 1), blurred vision, fatigue, delayed wound healing, recurrent infections (candidiasis, UTI). \u00ab Acanthosis Nigricans: Velvety hyperpigmentation in skin folds (m"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: polyuria and polydipsia\nHistory: obesity\nInvestigations: high HbA1c and fasting glucose\nDiagnosis: Type 2 diabetes mellitus\nTreatment: metformin and li"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Endocrinology\nSymptoms: weight loss and palpitations\nHistory: autoimmune history\nInvestigations: low TSH, high T4\nDiagnosis: Graves disease\nTreatment: antithyroid drugs\nOutcom"
+      },
+      {
+        "source": "cases",
+        "chapter": null,
+        "text": "Clinical Case\nSpecialty: Gastroenterology\nSymptoms: epigastric pain\nHistory: NSAID use\nInvestigations: endoscopy ulcer\nDiagnosis: Peptic ulcer disease\nTreatment: PPI therapy\nOutcome: ulcer healed"
+      }
+    ],
+    "answer": ""
+  }
+]
