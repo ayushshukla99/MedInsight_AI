@@ -8,7 +8,8 @@ import streamlit as st
 
 from rag_chain import build_chain
 from evaluation.eval_metrics import evaluate
-
+from rag_chain import RETRIEVER
+from evaluation.eval_logger import log_query
 
 # -----------------------------
 # CONFIG
@@ -185,7 +186,11 @@ if st.session_state.mode == "chat":
             chain = get_chain()
 
             with st.spinner("Retrieving medical evidence..."):
-                response = chain(question)
+                docs = RETRIEVER.invoke(question)
+
+            response = chain(question)
+
+            log_query(question, docs)
 
             st.markdown(response)
 

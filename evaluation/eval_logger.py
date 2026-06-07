@@ -1,18 +1,12 @@
-# eval_logger.py
-
-from collections import defaultdict
+import json
 from datetime import datetime
+from pathlib import Path
 
-# In-memory log (simple + reliable for Streamlit dev)
-LOGS = []
+LOG_FILE = Path("evaluation/eval_log.json")
 
 
 def log_query(query: str, retrieved_docs: list):
-    """
-    Stores query + retrieved documents for evaluation.
-    """
-
-    LOGS.append({
+    entry = {
         "query": query,
         "timestamp": datetime.now().isoformat(),
         "docs": [
@@ -25,12 +19,20 @@ def log_query(query: str, retrieved_docs: list):
             }
             for doc in retrieved_docs
         ]
-    })
+    }
 
+    if LOG_FILE.exists():
+        with open(LOG_FILE, "r") as f:
+            try:
+                logs = json.load(f)
+            except:
+                logs = []
+    else:
+        logs = []
 
-def get_logs():
-    return LOGS
+    logs.append(entry)
 
+    LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-def clear_logs():
-    LOGS.clear()
+    with open(LOG_FILE, "w") as f:
+        json.dump(logs, f, indent=4)

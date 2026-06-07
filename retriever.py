@@ -3,7 +3,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.runnables import RunnableLambda
 from langchain_core.documents import Document
 
-from eval_logger import log_query   # evaluation logging
+ # evaluation logging
 
 CHROMA_DIR = "chroma_store"
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
@@ -159,10 +159,7 @@ def build_retriever(
         # --------------------------------
         # EVALUATION LOGGER HOOK (FIXED)
         # --------------------------------
-        try:
-            log_query(query, final_docs)
-        except Exception as e:
-            print("⚠️ Eval logging failed:", str(e))
+
 
         return final_docs
 

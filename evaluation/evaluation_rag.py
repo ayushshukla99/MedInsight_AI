@@ -2,8 +2,8 @@ import json
 from collections import defaultdict
 
 # import your retriever + reranker pipeline
-from your_retriever_file import retrieve_documents
-from your_reranker_file import rerank_documents
+from retriever.py import retrieve_documents
+from reranker.py import rerank_documents
 
 
 # -----------------------------

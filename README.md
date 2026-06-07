@@ -1,141 +1,154 @@
-🧠 Medical RAG Chat Assistant
-⚡ Overview
+🧠 MedInsight_AI
+Evidence-Backed Medical RAG System
 
-A Retrieval-Augmented Generation (RAG) based medical chatbot that answers health-related queries using trusted medical sources stored in a structured vector database.
+A Retrieval-Augmented Generation (RAG) system for medical question answering using verified clinical sources with evaluation-driven reliability (MRR, Recall@K, source tracking).
 
-It combines:
+🚀 Overview
 
-📚 Medical FAQ knowledge base
-🧾 Clinical case studies
-📖 Medical handbook content
-🧠 Semantic retrieval + reranking
-🤖 LLM reasoning (Groq Qwen3-32B)
+MedInsight_AI is a domain-specific medical QA system built using a RAG architecture.
 
-The system is designed to reduce hallucinations and improve factual grounding in medical Q&A.
+It retrieves relevant medical knowledge from structured sources and generates grounded, evidence-based answers with minimal hallucination.
 
-🏗️ Architecture
+The system includes a full evaluation pipeline to measure retrieval quality and system reliability.
+
+⚙️ Key Features
+🔎 Semantic search using embeddings
+📚 Multi-source knowledge base:
+Medical FAQs
+Clinical Handbook (PDF)
+Case-based reasoning data
+🧠 Context-aware LLM response generation
+📊 Evaluation system:
+Recall@K
+Mean Reciprocal Rank (MRR)
+Source distribution analysis
+🧾 Structured logging of all evaluation runs
+🧪 Custom medical benchmark dataset
+🏗️ System Architecture
 User Query
    ↓
-Query Rewriting (optional normalization)
+Embedding Model
    ↓
-Merged Retriever (Chroma DB)
-   ├── FAQ Collection
-   ├── Case Studies Collection
-   └── Handbook Collection
+Vector Database (ChromaDB)
    ↓
-Initial Semantic Retrieval (Embeddings)
+Top-K Retrieval (FAQ + Handbook + Cases)
    ↓
-Cross-Encoder Reranking (Relevance boost)
+Context Ranking / Filtering
    ↓
-Top-K Context Selection
+LLM Answer Generation
    ↓
-Prompt Construction
-   ↓
-Groq LLM (Qwen3-32B)
-   ↓
-Final Answer
-🧠 Core Components
-1. Vector Database (Chroma)
-
-Stores embeddings of:
-
-Medical FAQs
-Clinical case studies
-Medical handbook chunks
-
-Each document is embedded using HuggingFace sentence transformers.
-
-2. Merged Retriever
-
-Custom retriever that:
-
-Queries all 3 collections
-Combines results
-Normalizes scores
-Returns unified ranked context
-3. Cross-Encoder Reranking
-
-Improves retrieval precision by:
-
-Re-scoring retrieved chunks
-Prioritizing semantically stronger matches
-Filtering noise
-4. Query Rewriting Layer
-
-Enhances retrieval by:
-
-Rephrasing vague user queries
-Expanding medical terminology
-Improving embedding alignment
-5. LLM Layer (Groq)
-Model: Qwen3-32B
-Role: Final reasoning + response generation
-Input: structured context + user query
-⚙️ Tech Stack
-LangChain – orchestration
-ChromaDB – vector storage
-HuggingFace Transformers – embeddings
-CrossEncoder (SentenceTransformers) – reranking
-Groq API – LLM inference
-Python – backend logic
-🚀 Features
-🧠 Medical domain-focused RAG pipeline
-📚 Multi-source knowledge retrieval
-🎯 Reranking for higher accuracy answers
-🔁 Query rewriting for better recall
-⚡ Fast inference via Groq
-🧾 Structured and explainable responses
-📦 Project Structure
-Medical Assistant/
+Final Evidence-Based Medical Answer
+📂 Project Structure
+MedInsight_AI/
 │
-├── retriever.py        # Merged retriever logic (FAQ + cases + handbook)
-├── ingest.py           # Embedding + Chroma DB setup
-├── rag_chain.py        # Prompt + LLM pipeline
-├── query_rewrite.py    # Query enhancement layer
-├── rerank.py           # Cross-encoder reranking logic
-├── chroma_store/       # Vector DB storage
-└── main.py             # Entry point (chat interface)
-🧪 How It Works (Step-by-Step)
-User asks a medical question
-Query is optionally rewritten for clarity
-Retriever searches all 3 vector stores
-Top documents are ranked using Cross-Encoder
-Best chunks are selected as context
-Prompt is constructed with strict medical grounding
-Groq LLM generates final answer
-Response returned to user
-📌 Example Query
+├── app.py                         # Main RAG application
+│
+├── evaluation/
+│   ├── eval_metrics.py            # MRR & Recall calculation
+│   ├── eval_logger.py             # Logging evaluation runs
+│   ├── eval_dataset.json          # Evaluation questions
+│   ├── eval_log.json              # Raw retrieval outputs
+│   ├── eval_report.md             # Final evaluation report
+│
+├── data/
+│   ├── faq/
+│   ├── handbook/
+│   ├── cases/
+│
+├── retriever/
+├── embeddings/
+├── vector_store/
+└── utils/
+📊 Evaluation Results
+Metric	Score
+Recall@3	0.80
+MRR	0.80
+📦 Source Distribution
+FAQ → dominant retrieval source
+Handbook → moderate usage
+Case data → minimal but important for reasoning
+🧪 Evaluation Methodology
 
-User:
+The system is tested on 10 curated medical queries covering:
 
-What are the symptoms of appendicitis?
+Medical definitions
+Diagnostic criteria
+Treatment guidelines
+Pathophysiology
+Clinical reasoning
+Multi-step comparisons
+📸 Screenshots
+1. Chat Interface (RAG Output)
 
-System Flow:
+Add screenshot of your chatbot answering medical queries
 
-Retrieves case studies of abdominal pain
-Pulls FAQ on appendicitis
-Matches handbook definition
-Reranks relevant symptoms context
-LLM generates structured answer
-⚠️ Disclaimer
+📍 Replace below with image once uploaded
+![Chat Interface](screenshots/chat.png)
+2. Evaluation Dashboard
 
-This system is for educational and informational purposes only.
-It is not a substitute for professional medical advice, diagnosis, or treatment.
+Add screenshot of evaluation metrics (MRR, Recall, logs)
 
-🔥 Future Improvements
- Hybrid search (BM25 + vector)
- Medical entity extraction layer
- Confidence scoring for answers
- Citation-based response output
- UI chatbot interface (Streamlit / React)
- Feedback loop for retraining retrieval quality
-💡 Why This Project Matters
+![Evaluation Dashboard](screenshots/eval.png)
+📁 How to Add Screenshots
+Step 1: Create folder
+mkdir screenshots
+Step 2: Add images
 
-Most LLM medical bots fail due to hallucination.
-This system solves that using:
+Place files like:
 
-grounded retrieval
-reranking
-structured knowledge separation
+screenshots/chat.png
+screenshots/eval.png
+Step 3: Reference in README
 
-Result: more accurate + explainable medical answers
+Already done above:
+
+![Chat Interface](screenshots/chat.png)
+![Evaluation Dashboard](screenshots/eval.png)
+⚠️ Limitations
+Small evaluation dataset (20 queries)
+FAQ-heavy retrieval bias
+Limited rare disease coverage
+No real-time clinical validation layer
+🔮 Future Improvements
+Add MMR-based diversified retrieval
+Improve handbook chunking strategy
+Expand dataset (100+ medical queries)
+Add LLM-based faithfulness scoring
+Build CI-based evaluation pipeline
+Add real-time medical knowledge updates
+🧠 Core Principle
+
+“Every answer must be traceable to retrieved medical evidence.”
+
+🛠️ Tech Stack
+Python
+LangChain / Custom RAG pipeline
+ChromaDB (Vector DB)
+Sentence Transformers
+JSON-based evaluation system
+📌 How to Run
+Start app
+python app.py
+Run evaluation
+python evaluation/eval_metrics.py
+Generate report
+python evaluation/eval_logger.py
+📈 Project Status
+
+✔ Retrieval system working
+✔ Evaluation pipeline active
+✔ Grounded responses enforced
+⚠ Needs dataset scaling + retrieval tuning
+
+🧾 License
+
+For academic and portfolio use only.
+
+⭐ Final Note
+
+This project demonstrates:
+
+Real-world RAG architecture
+Evaluation-driven ML system design
+Medical domain grounding
+Production-style structuring

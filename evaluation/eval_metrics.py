@@ -1,15 +1,22 @@
-# eval_metrics.py
-
+import json
 from collections import Counter
-from eval_logger import get_logs
+from pathlib import Path
+
+LOG_FILE = Path("evaluation/eval_log.json")
+
+
+def load_logs():
+    if not LOG_FILE.exists():
+        return []
+
+    try:
+        with open(LOG_FILE, "r") as f:
+            return json.load(f)
+    except:
+        return []
 
 
 def _extract_relevant_source(query: str):
-    """
-    Simple heuristic ground-truth mapping.
-    You can later replace with labeled dataset.
-    """
-
     q = query.lower()
 
     if "symptom" in q or "treatment" in q:
@@ -20,11 +27,8 @@ def _extract_relevant_source(query: str):
 
 
 def evaluate(k: int = 3):
-    """
-    Computes retrieval metrics over logged queries.
-    """
 
-    logs = get_logs()
+    logs = load_logs()
 
     if not logs:
         return {
@@ -41,8 +45,8 @@ def evaluate(k: int = 3):
     source_counter = Counter()
 
     for entry in logs:
-        query = entry["query"]
-        docs = entry["docs"]
+        query = entry.get("query", "")
+        docs = entry.get("docs", [])
 
         expected_source = _extract_relevant_source(query)
 
@@ -50,21 +54,20 @@ def evaluate(k: int = 3):
         rank_found = 0
 
         for i, doc in enumerate(docs[:k]):
-            source_counter[doc["source"]] += 1
+            source = doc.get("source", "unknown")
+            source_counter[source] += 1
 
-            if doc["source"] == expected_source and not found:
+            if source == expected_source and not found:
                 found = True
                 rank_found = i + 1
 
         if found:
             recall_hits += 1
             mrr_total += 1.0 / rank_found
-        else:
-            mrr_total += 0.0
 
     return {
         "total_queries": total,
-        "recall_at_3": recall_hits / total,
-        "mrr": mrr_total / total,
+        "recall_at_3": recall_hits / total if total else 0.0,
+        "mrr": mrr_total / total if total else 0.0,
         "source_distribution": dict(source_counter)
     }
