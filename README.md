@@ -1,154 +1,169 @@
-🧠 MedInsight_AI
-Evidence-Backed Medical RAG System
+# 🧠 MedInsight_AI  
+### Evidence-Backed Medical RAG System
 
 A Retrieval-Augmented Generation (RAG) system for medical question answering using verified clinical sources with evaluation-driven reliability (MRR, Recall@K, source tracking).
 
-🚀 Overview
+---
 
-MedInsight_AI is a domain-specific medical QA system built using a RAG architecture.
+# 🚀 Overview
+
+**MedInsight_AI** is a domain-specific medical QA system built using a **RAG architecture**.
 
 It retrieves relevant medical knowledge from structured sources and generates grounded, evidence-based answers with minimal hallucination.
 
-The system includes a full evaluation pipeline to measure retrieval quality and system reliability.
+It also includes a full evaluation pipeline to measure retrieval quality and system reliability.
 
-⚙️ Key Features
-🔎 Semantic search using embeddings
-📚 Multi-source knowledge base:
-Medical FAQs
-Clinical Handbook (PDF)
-Case-based reasoning data
-🧠 Context-aware LLM response generation
-📊 Evaluation system:
-Recall@K
-Mean Reciprocal Rank (MRR)
-Source distribution analysis
-🧾 Structured logging of all evaluation runs
-🧪 Custom medical benchmark dataset
-🏗️ System Architecture
+---
+
+# ⚙️ Key Features
+
+- 🔎 Semantic search using embeddings  
+- 📚 Multi-source knowledge base:
+  - Medical FAQs  
+  - Clinical Handbook (PDF)  
+  - Case-based reasoning data  
+- 🧠 Context-aware LLM response generation  
+- 📊 Evaluation system:
+  - Recall@K  
+  - Mean Reciprocal Rank (MRR)  
+  - Source distribution analysis  
+- 🧾 Structured logging of evaluation runs  
+- 🧪 Custom medical benchmark dataset  
+
+---
+
+# 🏗️ System Architecture
 User Query
-   ↓
+↓
 Embedding Model
-   ↓
+↓
 Vector Database (ChromaDB)
-   ↓
+↓
 Top-K Retrieval (FAQ + Handbook + Cases)
-   ↓
+↓
 Context Ranking / Filtering
-   ↓
+↓
 LLM Answer Generation
-   ↓
+↓
 Final Evidence-Based Medical Answer
-📂 Project Structure
+
+---
+
+# 📂 Project Structure
 MedInsight_AI/
 │
-├── app.py                         # Main RAG application
+├── app.py # Main RAG application
+│
+├── rag_chain.py # LLM + prompt pipeline
+├── retriever.py # Retrieval system
 │
 ├── evaluation/
-│   ├── eval_metrics.py            # MRR & Recall calculation
-│   ├── eval_logger.py             # Logging evaluation runs
-│   ├── eval_dataset.json          # Evaluation questions
-│   ├── eval_log.json              # Raw retrieval outputs
-│   ├── eval_report.md             # Final evaluation report
+│ ├── eval_metrics.py # MRR & Recall calculation
+│ ├── eval_logger.py # Logging evaluation runs
+│ ├── eval_dataset.json # Evaluation questions
+│ ├── eval_log.json # Raw retrieval outputs
 │
+├── chroma_store/ # Vector DB storage
 ├── data/
-│   ├── faq/
-│   ├── handbook/
-│   ├── cases/
+│ ├── faq/
+│ ├── handbook/
+│ ├── cases/
 │
-├── retriever/
-├── embeddings/
-├── vector_store/
-└── utils/
-📊 Evaluation Results
-Metric	Score
-Recall@3	0.80
-MRR	0.80
-📦 Source Distribution
-FAQ → dominant retrieval source
-Handbook → moderate usage
-Case data → minimal but important for reasoning
-🧪 Evaluation Methodology
+└── screenshots/
+├── chat.png
+├── eval.png
 
-The system is tested on 10 curated medical queries covering:
+---
 
-Medical definitions
-Diagnostic criteria
-Treatment guidelines
-Pathophysiology
-Clinical reasoning
-Multi-step comparisons
-📸 Screenshots
-1. Chat Interface (RAG Output)
+# 📊 Evaluation Results
 
-Add screenshot of your chatbot answering medical queries
+| Metric | Score |
+|--------|------|
+| Recall@3 | 0.80 |
+| MRR | 0.80 |
 
-📍 Replace below with image once uploaded
-![Chat Interface](screenshots/chat.png)
-2. Evaluation Dashboard
+---
 
-Add screenshot of evaluation metrics (MRR, Recall, logs)
+# 📦 Source Distribution
 
-![Evaluation Dashboard](screenshots/eval.png)
-📁 How to Add Screenshots
-Step 1: Create folder
-mkdir screenshots
-Step 2: Add images
+- FAQ → dominant retrieval source  
+- Handbook → moderate usage  
+- Case data → supports clinical reasoning  
 
-Place files like:
+---
 
-screenshots/chat.png
-screenshots/eval.png
-Step 3: Reference in README
+# 🧪 Evaluation Methodology
 
-Already done above:
+The system is tested on **10 curated medical queries** covering:
+
+- Medical definitions  
+- Diagnostic criteria  
+- Treatment guidelines  
+- Pathophysiology  
+- Clinical reasoning  
+- Multi-step comparisons  
+
+---
+
+# 📸 Screenshots
+
+## 💬 Chat Interface (RAG Output)
 
 ![Chat Interface](screenshots/chat.png)
+
+---
+
+## 📊 Evaluation Dashboard
+
 ![Evaluation Dashboard](screenshots/eval.png)
-⚠️ Limitations
-Small evaluation dataset (20 queries)
-FAQ-heavy retrieval bias
-Limited rare disease coverage
-No real-time clinical validation layer
-🔮 Future Improvements
-Add MMR-based diversified retrieval
-Improve handbook chunking strategy
-Expand dataset (100+ medical queries)
-Add LLM-based faithfulness scoring
-Build CI-based evaluation pipeline
-Add real-time medical knowledge updates
-🧠 Core Principle
 
-“Every answer must be traceable to retrieved medical evidence.”
+---
 
-🛠️ Tech Stack
-Python
-LangChain / Custom RAG pipeline
-ChromaDB (Vector DB)
-Sentence Transformers
-JSON-based evaluation system
-📌 How to Run
-Start app
-python app.py
-Run evaluation
-python evaluation/eval_metrics.py
-Generate report
-python evaluation/eval_logger.py
-📈 Project Status
+# ⚠️ Limitations
 
-✔ Retrieval system working
-✔ Evaluation pipeline active
-✔ Grounded responses enforced
-⚠ Needs dataset scaling + retrieval tuning
+- Small evaluation dataset (~10–20 queries)
+- FAQ-heavy retrieval bias
+- Limited rare disease coverage
+- No real-time clinical validation layer
 
-🧾 License
+---
+
+# 🔮 Future Improvements
+
+- Add MMR-based diversified retrieval tuning  
+- Improve handbook chunking strategy  
+- Expand dataset (100+ medical queries)  
+- Add LLM-based faithfulness scoring  
+- Build CI-based evaluation pipeline  
+- Add real-time medical knowledge updates  
+
+---
+
+# 🧠 Core Principle
+
+> “Every answer must be traceable to retrieved medical evidence.”
+
+---
+
+# 🛠️ Tech Stack
+
+- Python  
+- LangChain / Custom RAG pipeline  
+- ChromaDB (Vector Database)  
+- Sentence Transformers  
+- JSON-based evaluation system  
+
+---
+
+# 📈 Project Status
+
+- ✔ Retrieval system working  
+- ✔ Evaluation pipeline active  
+- ✔ Grounded responses enforced  
+- ⚠ Needs dataset scaling + retrieval tuning  
+
+---
+
+# 🧾 License
 
 For academic and portfolio use only.
-
-⭐ Final Note
-
-This project demonstrates:
-
-Real-world RAG architecture
-Evaluation-driven ML system design
-Medical domain grounding
-Production-style structuring
