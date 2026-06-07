@@ -7,7 +7,7 @@ load_dotenv()
 import streamlit as st
 
 from rag_chain import build_chain
-from eval_metrics import evaluate
+from evaluation.eval_metrics import evaluate
 
 
 # -----------------------------
